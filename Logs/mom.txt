@@ -1,0 +1,5292 @@
+
+==== READING DATA FILE ====
+Number of Sample Points: 3865
+Average y_acceleration: 10.3642665775
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3865
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 112
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3642665775
+Local Max Points: 66
+Writing current data to:   local_max.csv
+
+a points: [267, 301, 380]
+b points: [301, 380, 419]
+a points: [380, 419, 493]
+b points: [419, 493, 527]
+a points: [493, 527, 605]
+b points: [527, 605, 643]
+a points: [605, 643, 716]
+b points: [643, 716, 749]
+a points: [716, 749, 828]
+b points: [749, 828, 867]
+a points: [828, 867, 937]
+b points: [867, 937, 971]
+a points: [937, 971, 1049]
+b points: [971, 1049, 1088]
+a points: [1049, 1088, 1160]
+b Length: 132
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 72
+Invalid Cycle Length.  Discarding...[1088, 1160, 1220]
+a points: [1160, 1220, 1271]
+b Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[1220, 1271, 1309]
+a points: [1271, 1309, 1380]
+b points: [1309, 1380, 1420]
+a points: [1380, 1420, 1492]
+b points: [1420, 1492, 1531]
+a points: [1492, 1531, 1602]
+b Length: 131
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[1531, 1602, 1662]
+a points: [1602, 1662, 1713]
+b Length: 85
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[1662, 1713, 1747]
+a points: [1713, 1747, 1824]
+b points: [1747, 1824, 1862]
+a points: [1824, 1862, 1933]
+b points: [1862, 1933, 1972]
+a points: [1933, 1972, 2042]
+b points: [1972, 2042, 2080]
+a points: [2042, 2080, 2151]
+b points: [2080, 2151, 2193]
+a points: [2151, 2193, 2261]
+b points: [2193, 2261, 2299]
+a points: [2261, 2299, 2369]
+b points: [2299, 2369, 2408]
+a points: [2369, 2408, 2480]
+b points: [2408, 2480, 2517]
+a points: [2480, 2517, 2589]
+b points: [2517, 2589, 2621]
+a points: [2589, 2621, 2697]
+b points: [2621, 2697, 2734]
+a points: [2697, 2734, 2804]
+b points: [2734, 2804, 2848]
+a points: [2804, 2848, 2916]
+b points: [2848, 2916, 2954]
+a points: [2916, 2954, 3027]
+b points: [2954, 3027, 3064]
+a points: [3027, 3064, 3140]
+b Length: 134
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 76
+Invalid Cycle Length.  Discarding...[3064, 3140, 3198]
+a points: [3140, 3198, 3250]
+b Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 52
+Invalid Cycle Length.  Discarding...[3198, 3250, 3288]
+a points: [3250, 3288, 3346]
+b points: [3288, 3346, 3397]
+a points: [3346, 3397, 3470]
+b points: [3397, 3470, 3507]
+a points: [3470, 3507, 3582]
+b points: [3507, 3582, 3615]
+a points: [3582, 3615, 3694]
+b points: [3615, 3694, 3738]
+'a' Cycles Detected: 31
+'b' Cycles Detected: 25
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 31
+
+new Length: 25
+
+Normalizing Height..
+Max: 9.38411017101
+Min: -20.2732985076
+Span: 29.6574086786
+
+Normalizing Height..
+Max: 19.5970585228
+Min: 0.0935431720732
+Span: 19.5035153507
+
+Normalizing Height..
+Max: 6.79518953115
+Min: -20.8099787047
+Span: 27.6051682358
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 25
+
+new Length: 21
+
+Normalizing Height..
+Max: 6.85907207258
+Min: -14.5304298168
+Span: 21.3895018894
+
+Normalizing Height..
+Max: 17.3638789382
+Min: 2.22951947369
+Span: 15.1343594645
+
+Normalizing Height..
+Max: 5.34562995183
+Min: -15.567391817
+Span: 20.9130217689
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 52.8532524768
+Temp #2: -64.8201724292
+Score #1: 15
+Score #2: 7
+NO MATCH FOUND: 52/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3844
+Average y_acceleration: 8.22187682414
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3844
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 9.22187682414
+Local Max Points: 67
+Writing current data to:   local_max.csv
+
+a points: [198, 244, 310]
+b points: [244, 310, 343]
+a points: [310, 343, 420]
+b points: [343, 420, 452]
+a points: [420, 452, 530]
+b points: [452, 530, 561]
+a points: [530, 561, 638]
+b points: [561, 638, 669]
+a points: [638, 669, 746]
+b points: [669, 746, 784]
+a points: [746, 784, 853]
+b points: [784, 853, 885]
+a points: [853, 885, 961]
+b points: [885, 961, 1000]
+a points: [961, 1000, 1069]
+b Length: 178
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[1000, 1069, 1178]
+a Length: 147
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1069, 1178, 1216]
+new points: [1069, 1123, 1178]
+a points: [1178, 1216, 1286]
+b points: [1216, 1286, 1324]
+a points: [1286, 1324, 1394]
+b Length: 175
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[1324, 1394, 1499]
+a Length: 144
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1394, 1499, 1538]
+new points: [1394, 1446, 1499]
+a points: [1499, 1538, 1605]
+b points: [1538, 1605, 1642]
+a points: [1605, 1642, 1712]
+b points: [1642, 1712, 1751]
+a points: [1712, 1751, 1820]
+b Length: 176
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[1751, 1820, 1927]
+a Length: 145
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1820, 1927, 1965]
+new points: [1820, 1873, 1927]
+a points: [1927, 1965, 2034]
+b points: [1965, 2034, 2071]
+a points: [2034, 2071, 2139]
+b points: [2071, 2139, 2182]
+a points: [2139, 2182, 2246]
+b points: [2182, 2246, 2283]
+a points: [2246, 2283, 2353]
+b points: [2283, 2353, 2390]
+a points: [2353, 2390, 2458]
+b points: [2390, 2458, 2500]
+a points: [2458, 2500, 2566]
+b points: [2500, 2566, 2601]
+a points: [2566, 2601, 2675]
+b points: [2601, 2675, 2713]
+a points: [2675, 2713, 2781]
+b points: [2713, 2781, 2819]
+a points: [2781, 2819, 2889]
+b points: [2819, 2889, 2928]
+a points: [2889, 2928, 2998]
+b points: [2928, 2998, 3040]
+a points: [2998, 3040, 3105]
+b points: [3040, 3105, 3141]
+a points: [3105, 3141, 3212]
+b points: [3141, 3212, 3251]
+a points: [3212, 3251, 3320]
+b points: [3251, 3320, 3363]
+a points: [3320, 3363, 3429]
+b points: [3363, 3429, 3461]
+a points: [3429, 3461, 3539]
+b points: [3461, 3539, 3578]
+a points: [3539, 3578, 3649]
+b points: [3578, 3649, 3688]
+a points: [3649, 3688, 3764]
+b points: [3688, 3764, 3801]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 27
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 11.2818259087
+Min: -2.80423874373
+Span: 14.0860646524
+
+Normalizing Height..
+Max: 23.2441793946
+Min: 4.3741716235
+Span: 18.8700077711
+
+Normalizing Height..
+Max: 5.79622788556
+Min: -20.402616771
+Span: 26.1988446565
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 27
+
+new Length: 23
+
+Normalizing Height..
+Max: 7.19667102061
+Min: -2.21434054131
+Span: 9.41101156191
+
+Normalizing Height..
+Max: 17.7825904269
+Min: 4.80233489143
+Span: 12.9802555355
+
+Normalizing Height..
+Max: 4.90720166395
+Min: -13.6694496906
+Span: 18.5766513546
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 54.7320125448
+Temp #2: -48.2240239697
+Score #1: 13
+Score #2: 12
+NO MATCH FOUND: 54/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3969
+Average y_acceleration: 10.5096136728
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3969
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 112
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.5096136728
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [219, 259, 332]
+b points: [259, 332, 366]
+a points: [332, 366, 443]
+b points: [366, 443, 481]
+a points: [443, 481, 554]
+b points: [481, 554, 591]
+a points: [554, 591, 665]
+b points: [591, 665, 703]
+a points: [665, 703, 778]
+b points: [703, 778, 816]
+a points: [778, 816, 875]
+b points: [816, 875, 927]
+a points: [875, 927, 1001]
+b points: [927, 1001, 1039]
+a points: [1001, 1039, 1098]
+b points: [1039, 1098, 1149]
+a points: [1098, 1149, 1207]
+b points: [1149, 1207, 1258]
+a points: [1207, 1258, 1331]
+b points: [1258, 1331, 1370]
+a points: [1331, 1370, 1441]
+b points: [1370, 1441, 1478]
+a points: [1441, 1478, 1551]
+b points: [1478, 1551, 1588]
+a points: [1551, 1588, 1661]
+b points: [1588, 1661, 1695]
+a points: [1661, 1695, 1760]
+b points: [1695, 1760, 1810]
+a points: [1760, 1810, 1884]
+b points: [1810, 1884, 1920]
+a points: [1884, 1920, 1993]
+b points: [1920, 1993, 2026]
+a points: [1993, 2026, 2103]
+b points: [2026, 2103, 2142]
+a points: [2103, 2142, 2215]
+b points: [2142, 2215, 2253]
+a points: [2215, 2253, 2327]
+b points: [2253, 2327, 2359]
+a points: [2327, 2359, 2436]
+b points: [2359, 2436, 2473]
+a points: [2436, 2473, 2547]
+b points: [2473, 2547, 2584]
+a points: [2547, 2584, 2658]
+b points: [2584, 2658, 2691]
+a points: [2658, 2691, 2769]
+b points: [2691, 2769, 2807]
+a points: [2769, 2807, 2880]
+b points: [2807, 2880, 2918]
+a points: [2880, 2918, 2977]
+b points: [2918, 2977, 3029]
+a points: [2977, 3029, 3100]
+b points: [3029, 3100, 3137]
+a points: [3100, 3137, 3212]
+b points: [3137, 3212, 3250]
+a points: [3212, 3250, 3322]
+b points: [3250, 3322, 3359]
+a points: [3322, 3359, 3434]
+b points: [3359, 3434, 3472]
+a points: [3434, 3472, 3546]
+b points: [3472, 3546, 3579]
+a points: [3546, 3579, 3656]
+b points: [3579, 3656, 3697]
+a points: [3656, 3697, 3770]
+b points: [3697, 3770, 3803]
+a points: [3770, 3803, 3887]
+b points: [3803, 3887, 3932]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 7.40685559706
+Min: -15.4623756701
+Span: 22.8692312671
+
+Normalizing Height..
+Max: 18.9860536928
+Min: 2.2672449501
+Span: 16.7188087427
+
+Normalizing Height..
+Max: 6.84610999346
+Min: -16.6265570621
+Span: 23.4726670556
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 7.36824247596
+Min: -15.9734052255
+Span: 23.3416477014
+
+Normalizing Height..
+Max: 18.2159888321
+Min: 2.87092708009
+Span: 15.345061752
+
+Normalizing Height..
+Max: 6.76859173586
+Min: -16.75593849
+Span: 23.5245302259
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 53.3477554518
+Temp #2: -58.7687604947
+Score #1: 16
+Score #2: 10
+NO MATCH FOUND: 53/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3705
+Average y_acceleration: 10.639612018
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3705
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 108
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.639612018
+Local Max Points: 66
+Writing current data to:   local_max.csv
+
+a points: [169, 201, 279]
+b points: [201, 279, 323]
+a points: [279, 323, 389]
+b points: [323, 389, 421]
+a points: [389, 421, 499]
+b points: [421, 499, 528]
+a points: [499, 528, 607]
+b points: [528, 607, 646]
+a points: [607, 646, 715]
+b points: [646, 715, 748]
+a points: [715, 748, 822]
+b points: [748, 822, 860]
+a points: [822, 860, 932]
+b points: [860, 932, 970]
+a points: [932, 970, 1044]
+b points: [970, 1044, 1082]
+a points: [1044, 1082, 1154]
+b points: [1082, 1154, 1192]
+a points: [1154, 1192, 1265]
+b points: [1192, 1265, 1303]
+a points: [1265, 1303, 1375]
+b points: [1303, 1375, 1412]
+a points: [1375, 1412, 1485]
+b points: [1412, 1485, 1521]
+a points: [1485, 1521, 1590]
+b points: [1521, 1590, 1626]
+a points: [1590, 1626, 1700]
+b points: [1626, 1700, 1740]
+a points: [1700, 1740, 1813]
+b points: [1740, 1813, 1851]
+a points: [1813, 1851, 1924]
+b points: [1851, 1924, 1965]
+a points: [1924, 1965, 2034]
+b points: [1965, 2034, 2072]
+a points: [2034, 2072, 2145]
+b points: [2072, 2145, 2181]
+a points: [2145, 2181, 2250]
+b points: [2181, 2250, 2290]
+a points: [2250, 2290, 2363]
+b points: [2290, 2363, 2401]
+a points: [2363, 2401, 2471]
+b points: [2401, 2471, 2515]
+a points: [2471, 2515, 2584]
+b points: [2515, 2584, 2622]
+a points: [2584, 2622, 2693]
+b points: [2622, 2693, 2732]
+a points: [2693, 2732, 2802]
+b points: [2732, 2802, 2840]
+a points: [2802, 2840, 2913]
+b points: [2840, 2913, 2945]
+a points: [2913, 2945, 3024]
+b points: [2945, 3024, 3061]
+a points: [3024, 3061, 3132]
+b points: [3061, 3132, 3170]
+a points: [3132, 3170, 3245]
+b points: [3170, 3245, 3277]
+a points: [3245, 3277, 3356]
+b points: [3277, 3356, 3390]
+a points: [3356, 3390, 3468]
+b points: [3390, 3468, 3506]
+a points: [3468, 3506, 3581]
+b points: [3506, 3581, 3619]
+'a' Cycles Detected: 31
+'b' Cycles Detected: 31
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 31
+
+new Length: 25
+
+Normalizing Height..
+Max: 21.9621774303
+Min: -7.58565231441
+Span: 29.5478297447
+
+Normalizing Height..
+Max: 18.9580821179
+Min: 4.92504317792
+Span: 14.03303894
+
+Normalizing Height..
+Max: 16.7139250346
+Min: -7.39650818756
+Span: 24.1104332222
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 31
+
+new Length: 25
+
+Normalizing Height..
+Max: 16.4893761838
+Min: -6.54527318939
+Span: 23.0346493732
+
+Normalizing Height..
+Max: 17.7966423205
+Min: 5.11328874622
+Span: 12.6833535743
+
+Normalizing Height..
+Max: 14.58532924
+Min: -5.13177776936
+Span: 19.7171070093
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 57.550783049
+Temp #2: -50.9161916637
+Score #1: 14
+Score #2: 9
+NO MATCH FOUND: 57/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3957
+Average y_acceleration: 10.4239972796
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3957
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 112
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.4239972796
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [216, 261, 317]
+b points: [261, 317, 369]
+a points: [317, 369, 443]
+b points: [369, 443, 482]
+a points: [443, 482, 542]
+b points: [482, 542, 593]
+a points: [542, 593, 664]
+b points: [593, 664, 706]
+a points: [664, 706, 771]
+b points: [706, 771, 810]
+a points: [771, 810, 881]
+b points: [810, 881, 918]
+a points: [881, 918, 987]
+b points: [918, 987, 1034]
+a points: [987, 1034, 1086]
+b points: [1034, 1086, 1137]
+a points: [1086, 1137, 1209]
+b points: [1137, 1209, 1248]
+a points: [1209, 1248, 1316]
+b points: [1248, 1316, 1356]
+a points: [1316, 1356, 1427]
+b points: [1356, 1427, 1467]
+a points: [1427, 1467, 1525]
+b points: [1467, 1525, 1576]
+a points: [1525, 1576, 1648]
+b points: [1576, 1648, 1685]
+a points: [1648, 1685, 1757]
+b points: [1685, 1757, 1794]
+a points: [1757, 1794, 1855]
+b points: [1794, 1855, 1906]
+a points: [1855, 1906, 1978]
+b points: [1906, 1978, 2016]
+a points: [1978, 2016, 2073]
+b points: [2016, 2073, 2123]
+a points: [2073, 2123, 2192]
+b points: [2123, 2192, 2233]
+a points: [2192, 2233, 2303]
+b points: [2233, 2303, 2346]
+a points: [2303, 2346, 2401]
+b points: [2346, 2401, 2452]
+a points: [2401, 2452, 2522]
+b points: [2452, 2522, 2562]
+a points: [2522, 2562, 2637]
+b points: [2562, 2637, 2679]
+a points: [2637, 2679, 2749]
+b points: [2679, 2749, 2787]
+a points: [2749, 2787, 2856]
+b points: [2787, 2856, 2897]
+a points: [2856, 2897, 2968]
+b points: [2897, 2968, 3005]
+a points: [2968, 3005, 3074]
+b points: [3005, 3074, 3109]
+a points: [3074, 3109, 3187]
+b points: [3109, 3187, 3223]
+a points: [3187, 3223, 3283]
+b points: [3223, 3283, 3334]
+a points: [3283, 3334, 3395]
+b points: [3334, 3395, 3447]
+a points: [3395, 3447, 3504]
+b points: [3447, 3504, 3561]
+a points: [3504, 3561, 3625]
+b points: [3561, 3625, 3667]
+a points: [3625, 3667, 3738]
+b points: [3667, 3738, 3779]
+a points: [3738, 3779, 3841]
+b points: [3779, 3841, 3887]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 5.01745053394
+Min: -9.0119967601
+Span: 14.029447294
+
+Normalizing Height..
+Max: 18.7280272742
+Min: 2.86562119139
+Span: 15.8624060828
+
+Normalizing Height..
+Max: 5.86241075751
+Min: -11.1231767997
+Span: 16.9855875572
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 7.9116316302
+Min: -17.036419933
+Span: 24.9480515632
+
+Normalizing Height..
+Max: 17.4739289937
+Min: 2.74009554562
+Span: 14.733833448
+
+Normalizing Height..
+Max: 7.08187807038
+Min: -18.6425806323
+Span: 25.7244587026
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 50.2610395439
+Temp #2: -57.9018577021
+Score #1: 12
+Score #2: 8
+NO MATCH FOUND: 50/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3979
+Average y_acceleration: 10.3849006534
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3979
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 2
+Writing current data to:   distance.csv
+
+Optimal Distance: 109
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3849006534
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [231, 274, 330]
+b points: [274, 330, 384]
+a points: [330, 384, 449]
+b points: [384, 449, 490]
+a points: [449, 490, 548]
+b points: [490, 548, 599]
+a points: [548, 599, 671]
+b points: [599, 671, 714]
+a points: [671, 714, 768]
+b points: [714, 768, 819]
+a points: [768, 819, 887]
+b points: [819, 887, 928]
+a points: [887, 928, 996]
+b points: [928, 996, 1040]
+a points: [996, 1040, 1095]
+b points: [1040, 1095, 1147]
+a points: [1095, 1147, 1215]
+b points: [1147, 1215, 1255]
+a points: [1215, 1255, 1314]
+b points: [1255, 1314, 1365]
+a points: [1314, 1365, 1434]
+b points: [1365, 1434, 1474]
+a points: [1434, 1474, 1543]
+b points: [1474, 1543, 1583]
+a points: [1543, 1583, 1653]
+b points: [1583, 1653, 1699]
+a points: [1653, 1699, 1753]
+b points: [1699, 1753, 1804]
+a points: [1753, 1804, 1874]
+b Length: 130
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[1804, 1874, 1934]
+a points: [1874, 1934, 1986]
+b Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 52
+Invalid Cycle Length.  Discarding...[1934, 1986, 2025]
+a points: [1986, 2025, 2095]
+b points: [2025, 2095, 2142]
+a points: [2095, 2142, 2196]
+b points: [2142, 2196, 2247]
+a points: [2196, 2247, 2306]
+b points: [2247, 2306, 2358]
+a points: [2306, 2358, 2430]
+b points: [2358, 2430, 2475]
+a points: [2430, 2475, 2528]
+b points: [2475, 2528, 2578]
+a points: [2528, 2578, 2647]
+b points: [2578, 2647, 2689]
+a points: [2647, 2689, 2760]
+b points: [2689, 2760, 2800]
+a points: [2760, 2800, 2858]
+b points: [2800, 2858, 2909]
+a points: [2858, 2909, 2981]
+b points: [2909, 2981, 3021]
+a points: [2981, 3021, 3090]
+b Length: 132
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[3021, 3090, 3153]
+a points: [3090, 3153, 3204]
+b Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[3153, 3204, 3244]
+a points: [3204, 3244, 3317]
+b points: [3244, 3317, 3359]
+a points: [3317, 3359, 3433]
+b points: [3359, 3433, 3477]
+a points: [3433, 3477, 3543]
+b points: [3477, 3543, 3588]
+a points: [3543, 3588, 3655]
+b points: [3588, 3655, 3698]
+a points: [3655, 3698, 3757]
+b points: [3698, 3757, 3811]
+a points: [3757, 3811, 3875]
+b points: [3811, 3875, 3933]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 29
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 5.1701271801
+Min: -8.03870279554
+Span: 13.2088299756
+
+Normalizing Height..
+Max: 18.6288162044
+Min: 3.78025049054
+Span: 14.8485657139
+
+Normalizing Height..
+Max: 6.72129680568
+Min: -10.4900897839
+Span: 17.2113865896
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 29
+
+new Length: 25
+
+Normalizing Height..
+Max: 6.60527784561
+Min: -14.7073238553
+Span: 21.3126017009
+
+Normalizing Height..
+Max: 17.3279633678
+Min: 2.11381474553
+Span: 15.2141486223
+
+Normalizing Height..
+Max: 7.39138456843
+Min: -18.1841669028
+Span: 25.5755514713
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 47.8969460863
+Temp #2: -53.9954397718
+Score #1: 11
+Score #2: 7
+NO MATCH FOUND: 47/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4122
+Average y_acceleration: 10.5025783085
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4122
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 1
+Writing current data to:   distance.csv
+
+Optimal Distance: 115
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.5025783085
+Local Max Points: 69
+Writing current data to:   local_max.csv
+
+a points: [334, 379, 447]
+b points: [379, 447, 508]
+a points: [447, 508, 561]
+b Length: 92
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 53
+Invalid Cycle Length.  Discarding...[508, 561, 600]
+a points: [561, 600, 660]
+b points: [600, 660, 712]
+a points: [660, 712, 772]
+b points: [712, 772, 824]
+a points: [772, 824, 897]
+b points: [824, 897, 935]
+a points: [897, 935, 1007]
+b points: [935, 1007, 1045]
+a Length: 96
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 38
+Invalid Cycle Length.  Discarding...[1007, 1045, 1103]
+b points: [1045, 1103, 1154]
+a points: [1103, 1154, 1227]
+b points: [1154, 1227, 1265]
+a points: [1227, 1265, 1335]
+b points: [1265, 1335, 1376]
+a points: [1335, 1376, 1448]
+b points: [1376, 1448, 1487]
+a points: [1448, 1487, 1556]
+b points: [1487, 1556, 1601]
+a points: [1556, 1601, 1654]
+b points: [1601, 1654, 1707]
+a points: [1654, 1707, 1780]
+b points: [1707, 1780, 1818]
+a points: [1780, 1818, 1890]
+b points: [1818, 1890, 1928]
+a points: [1890, 1928, 2000]
+b points: [1928, 2000, 2038]
+a points: [2000, 2038, 2107]
+b points: [2038, 2107, 2150]
+a points: [2107, 2150, 2221]
+b Length: 178
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[2150, 2221, 2328]
+a Length: 148
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2221, 2328, 2369]
+new points: [2221, 2274, 2328]
+a points: [2328, 2369, 2439]
+b points: [2369, 2439, 2479]
+a points: [2439, 2479, 2550]
+b points: [2479, 2550, 2588]
+a points: [2550, 2588, 2660]
+b points: [2588, 2660, 2700]
+a points: [2660, 2700, 2758]
+b points: [2700, 2758, 2809]
+a points: [2758, 2809, 2880]
+b points: [2809, 2880, 2920]
+a points: [2880, 2920, 2989]
+b points: [2920, 2989, 3031]
+a points: [2989, 3031, 3089]
+b points: [3031, 3089, 3145]
+a points: [3089, 3145, 3215]
+b points: [3145, 3215, 3257]
+a points: [3215, 3257, 3328]
+b points: [3257, 3328, 3367]
+a points: [3328, 3367, 3441]
+b points: [3367, 3441, 3474]
+a points: [3441, 3474, 3554]
+b points: [3474, 3554, 3591]
+a points: [3554, 3591, 3663]
+b points: [3591, 3663, 3697]
+a points: [3663, 3697, 3774]
+b points: [3697, 3774, 3815]
+a points: [3774, 3815, 3889]
+b points: [3815, 3889, 3930]
+a points: [3889, 3930, 4011]
+b points: [3930, 4011, 4046]
+'a' Cycles Detected: 32
+'b' Cycles Detected: 30
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 5.84070781699
+Min: -13.290656529
+Span: 19.131364346
+
+Normalizing Height..
+Max: 19.0068081845
+Min: 3.31191943107
+Span: 15.6948887535
+
+Normalizing Height..
+Max: 6.48702731065
+Min: -13.4766176376
+Span: 19.9636449482
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 30
+
+new Length: 24
+
+Normalizing Height..
+Max: 7.93785459814
+Min: -16.1324661273
+Span: 24.0703207255
+
+Normalizing Height..
+Max: 16.7863148174
+Min: 2.14239700447
+Span: 14.6439178129
+
+Normalizing Height..
+Max: 6.30079525115
+Min: -17.8039389982
+Span: 24.1047342494
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 52.3660016083
+Temp #2: -55.2425741665
+Score #1: 10
+Score #2: 6
+NO MATCH FOUND: 52/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4109
+Average y_acceleration: 10.4780144325
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4109
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.4780144325
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [199, 258, 314]
+b points: [258, 314, 368]
+a points: [314, 368, 424]
+b points: [368, 424, 491]
+a points: [424, 491, 549]
+b points: [491, 549, 598]
+a Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 49
+Invalid Cycle Length.  Discarding...[549, 598, 639]
+b points: [598, 639, 696]
+a points: [639, 696, 748]
+b points: [696, 748, 804]
+a points: [748, 804, 857]
+b points: [804, 857, 928]
+a points: [857, 928, 965]
+b points: [928, 965, 1024]
+a points: [965, 1024, 1076]
+b points: [1024, 1076, 1131]
+a points: [1076, 1131, 1184]
+b points: [1131, 1184, 1242]
+a points: [1184, 1242, 1295]
+b points: [1242, 1295, 1352]
+a points: [1295, 1352, 1405]
+b points: [1352, 1405, 1465]
+a points: [1405, 1465, 1516]
+b points: [1465, 1516, 1585]
+a points: [1516, 1585, 1625]
+b points: [1585, 1625, 1684]
+a points: [1625, 1684, 1742]
+b points: [1684, 1742, 1795]
+a points: [1742, 1795, 1847]
+b points: [1795, 1847, 1905]
+a points: [1847, 1905, 1958]
+b points: [1905, 1958, 2016]
+a points: [1958, 2016, 2069]
+b points: [2016, 2069, 2127]
+a points: [2069, 2127, 2183]
+b points: [2127, 2183, 2239]
+a points: [2183, 2239, 2291]
+b points: [2239, 2291, 2348]
+a points: [2291, 2348, 2400]
+b points: [2348, 2400, 2457]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 57
+Invalid Cycle Length.  Discarding...[2400, 2457, 2529]
+b points: [2457, 2529, 2569]
+a Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 40
+Invalid Cycle Length.  Discarding...[2529, 2569, 2620]
+b points: [2569, 2620, 2680]
+a points: [2620, 2680, 2732]
+b points: [2680, 2732, 2790]
+a points: [2732, 2790, 2845]
+b points: [2790, 2845, 2900]
+a points: [2845, 2900, 2956]
+b points: [2900, 2956, 3010]
+a points: [2956, 3010, 3060]
+b points: [3010, 3060, 3118]
+a points: [3060, 3118, 3170]
+b points: [3118, 3170, 3228]
+a points: [3170, 3228, 3279]
+b points: [3228, 3279, 3349]
+a points: [3279, 3349, 3389]
+b points: [3349, 3389, 3448]
+a points: [3389, 3448, 3499]
+b points: [3448, 3499, 3558]
+a points: [3499, 3558, 3605]
+b points: [3558, 3605, 3671]
+a points: [3605, 3671, 3726]
+b points: [3671, 3726, 3796]
+a points: [3726, 3796, 3836]
+b points: [3796, 3836, 3912]
+a points: [3836, 3912, 3958]
+'a' Cycles Detected: 31
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 31
+
+new Length: 25
+
+Normalizing Height..
+Max: 7.11343307698
+Min: -16.522922344
+Span: 23.636355421
+
+Normalizing Height..
+Max: 17.2756992699
+Min: 3.77526276267
+Span: 13.5004365072
+
+Normalizing Height..
+Max: 7.30251890315
+Min: -18.2818924725
+Span: 25.5844113757
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 6.89919437131
+Min: -14.5209364445
+Span: 21.4201308158
+
+Normalizing Height..
+Max: 20.0248521062
+Min: 3.74311393703
+Span: 16.2817381691
+
+Normalizing Height..
+Max: 7.66136419626
+Min: -15.6960006587
+Span: 23.357364855
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -52.8272924159
+Temp #2: 39.6913825249
+Score #1: 8
+Score #2: 11
+NO MATCH FOUND: 39/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4104
+Average y_acceleration: 10.4538309832
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4104
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 2
+Writing current data to:   distance.csv
+
+Optimal Distance: 114
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.4538309832
+Local Max Points: 69
+Writing current data to:   local_max.csv
+
+a points: [328, 370, 429]
+b points: [370, 429, 481]
+a points: [429, 481, 541]
+b points: [481, 541, 595]
+a points: [541, 595, 663]
+b points: [595, 663, 702]
+a points: [663, 702, 775]
+b Length: 181
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 73
+Invalid Cycle Length.  Discarding...[702, 775, 883]
+a Length: 153
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [775, 883, 928]
+new points: [775, 829, 883]
+a points: [883, 928, 983]
+b points: [928, 983, 1035]
+a points: [983, 1035, 1094]
+b points: [1035, 1094, 1143]
+a points: [1094, 1143, 1215]
+b points: [1143, 1215, 1254]
+a points: [1215, 1254, 1315]
+b points: [1254, 1315, 1368]
+a points: [1315, 1368, 1424]
+b points: [1368, 1424, 1480]
+a points: [1424, 1480, 1534]
+b points: [1480, 1534, 1589]
+a points: [1534, 1589, 1660]
+b points: [1589, 1660, 1696]
+a points: [1660, 1696, 1758]
+b Length: 134
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 62
+Invalid Cycle Length.  Discarding...[1696, 1758, 1830]
+a points: [1758, 1830, 1881]
+b Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[1830, 1881, 1920]
+a points: [1881, 1920, 1993]
+b points: [1920, 1993, 2034]
+a Length: 96
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 41
+Invalid Cycle Length.  Discarding...[1993, 2034, 2089]
+b points: [2034, 2089, 2142]
+a points: [2089, 2142, 2201]
+b points: [2142, 2201, 2254]
+a points: [2201, 2254, 2311]
+b points: [2254, 2311, 2382]
+a points: [2311, 2382, 2434]
+b Length: 92
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 52
+Invalid Cycle Length.  Discarding...[2382, 2434, 2474]
+a points: [2434, 2474, 2546]
+b points: [2474, 2546, 2583]
+a points: [2546, 2583, 2644]
+b points: [2583, 2644, 2696]
+a points: [2644, 2696, 2754]
+b points: [2696, 2754, 2807]
+a points: [2754, 2807, 2867]
+b points: [2807, 2867, 2924]
+a points: [2867, 2924, 2991]
+b points: [2924, 2991, 3029]
+a points: [2991, 3029, 3088]
+b points: [3029, 3088, 3140]
+a points: [3088, 3140, 3209]
+b points: [3140, 3209, 3253]
+a points: [3209, 3253, 3309]
+b points: [3253, 3309, 3361]
+a points: [3309, 3361, 3432]
+b points: [3361, 3432, 3472]
+a points: [3432, 3472, 3542]
+b points: [3472, 3542, 3583]
+a points: [3542, 3583, 3641]
+b points: [3583, 3641, 3692]
+a points: [3641, 3692, 3752]
+b points: [3692, 3752, 3804]
+a points: [3752, 3804, 3878]
+b points: [3804, 3878, 3920]
+a points: [3878, 3920, 3993]
+b points: [3920, 3993, 4028]
+'a' Cycles Detected: 32
+'b' Cycles Detected: 28
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 4.64073725277
+Min: -4.60170555737
+Span: 9.24244281014
+
+Normalizing Height..
+Max: 19.3610213797
+Min: 3.58045104218
+Span: 15.7805703375
+
+Normalizing Height..
+Max: 6.68701673156
+Min: -6.334684002
+Span: 13.0217007336
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 28
+
+new Length: 24
+
+Normalizing Height..
+Max: 7.57835081957
+Min: -16.1371339326
+Span: 23.7154847521
+
+Normalizing Height..
+Max: 17.3874481946
+Min: 1.0728065297
+Span: 16.3146416649
+
+Normalizing Height..
+Max: 6.50138068222
+Min: -17.8291404416
+Span: 24.3305211238
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 45.2237659817
+Temp #2: -55.5820757211
+Score #1: 15
+Score #2: 5
+NO MATCH FOUND: 45/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4125
+Average y_acceleration: 10.3759037773
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4125
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 0
+Writing current data to:   distance.csv
+
+Optimal Distance: 105
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3759037773
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a Length: 127
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 79
+Invalid Cycle Length.  Discarding...[254, 333, 381]
+b points: [333, 381, 448]
+a points: [381, 448, 494]
+b points: [448, 494, 559]
+a points: [494, 559, 602]
+b points: [559, 602, 671]
+a points: [602, 671, 712]
+b points: [671, 712, 782]
+a points: [712, 782, 823]
+b points: [782, 823, 897]
+a points: [823, 897, 937]
+b points: [897, 937, 1007]
+a points: [937, 1007, 1049]
+b points: [1007, 1049, 1121]
+a points: [1049, 1121, 1161]
+b points: [1121, 1161, 1233]
+a points: [1161, 1233, 1273]
+b points: [1233, 1273, 1345]
+a points: [1273, 1345, 1384]
+b points: [1345, 1384, 1455]
+a points: [1384, 1455, 1493]
+b points: [1455, 1493, 1565]
+a Length: 132
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 72
+Invalid Cycle Length.  Discarding...[1493, 1565, 1625]
+b points: [1565, 1625, 1676]
+a points: [1625, 1676, 1715]
+b points: [1676, 1715, 1786]
+a points: [1715, 1786, 1827]
+b points: [1786, 1827, 1898]
+a points: [1827, 1898, 1941]
+b points: [1898, 1941, 2009]
+a points: [1941, 2009, 2049]
+b points: [2009, 2049, 2119]
+a points: [2049, 2119, 2160]
+b points: [2119, 2160, 2232]
+a points: [2160, 2232, 2273]
+b points: [2232, 2273, 2332]
+a points: [2273, 2332, 2386]
+b points: [2332, 2386, 2454]
+a points: [2386, 2454, 2496]
+b points: [2454, 2496, 2567]
+a points: [2496, 2567, 2608]
+b points: [2567, 2608, 2677]
+a points: [2608, 2677, 2718]
+b points: [2677, 2718, 2787]
+a points: [2718, 2787, 2828]
+b points: [2787, 2828, 2899]
+a points: [2828, 2899, 2939]
+b points: [2899, 2939, 3011]
+a points: [2939, 3011, 3052]
+b points: [3011, 3052, 3122]
+a points: [3052, 3122, 3161]
+b points: [3122, 3161, 3233]
+a points: [3161, 3233, 3272]
+b points: [3233, 3272, 3343]
+a points: [3272, 3343, 3382]
+b points: [3343, 3382, 3453]
+a points: [3382, 3453, 3493]
+b points: [3453, 3493, 3564]
+a points: [3493, 3564, 3605]
+b points: [3564, 3605, 3677]
+a points: [3605, 3677, 3718]
+b points: [3677, 3718, 3787]
+a points: [3718, 3787, 3830]
+b points: [3787, 3830, 3900]
+a points: [3830, 3900, 3939]
+b points: [3900, 3939, 4009]
+a points: [3939, 4009, 4051]
+'a' Cycles Detected: 32
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 24.3005078491
+Min: -11.5009193104
+Span: 35.8014271595
+
+Normalizing Height..
+Max: 17.8129112965
+Min: 2.79171100354
+Span: 15.021200293
+
+Normalizing Height..
+Max: 16.8453348892
+Min: -9.69357156065
+Span: 26.5389064498
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 24.8312971939
+Min: -10.6220812372
+Span: 35.4533784311
+
+Normalizing Height..
+Max: 18.7731263345
+Min: 2.05304646928
+Span: 16.7200798652
+
+Normalizing Height..
+Max: 16.011652848
+Min: -11.3240478662
+Span: 27.3357007142
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -51.8970543245
+Temp #2: 45.3654184207
+Score #1: 4
+Score #2: 12
+NO MATCH FOUND: 45/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4101
+Average y_acceleration: 10.4253062861
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4101
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 111
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.4253062861
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [290, 334, 401]
+b points: [334, 401, 443]
+a points: [401, 443, 516]
+b points: [443, 516, 557]
+a points: [516, 557, 633]
+b points: [557, 633, 671]
+a points: [633, 671, 744]
+b Length: 133
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 73
+Invalid Cycle Length.  Discarding...[671, 744, 804]
+a points: [744, 804, 857]
+b Length: 93
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 53
+Invalid Cycle Length.  Discarding...[804, 857, 897]
+a points: [857, 897, 971]
+b Length: 185
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 74
+Invalid Cycle Length.  Discarding...[897, 971, 1082]
+a Length: 152
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [971, 1082, 1123]
+new points: [971, 1026, 1082]
+a points: [1082, 1123, 1194]
+b points: [1123, 1194, 1226]
+a points: [1194, 1226, 1309]
+b Length: 142
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 83
+Invalid Cycle Length.  Discarding...[1226, 1309, 1368]
+a points: [1309, 1368, 1408]
+b Length: 92
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 40
+Invalid Cycle Length.  Discarding...[1368, 1408, 1460]
+a points: [1408, 1460, 1530]
+b points: [1460, 1530, 1574]
+a points: [1530, 1574, 1646]
+b points: [1574, 1646, 1685]
+a points: [1646, 1685, 1755]
+b points: [1685, 1755, 1796]
+a points: [1755, 1796, 1870]
+b points: [1796, 1870, 1908]
+a points: [1870, 1908, 1967]
+b points: [1908, 1967, 2018]
+a points: [1967, 2018, 2091]
+b points: [2018, 2091, 2131]
+a points: [2091, 2131, 2203]
+b Length: 133
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 72
+Invalid Cycle Length.  Discarding...[2131, 2203, 2264]
+a points: [2203, 2264, 2316]
+b Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 52
+Invalid Cycle Length.  Discarding...[2264, 2316, 2355]
+a points: [2316, 2355, 2427]
+b points: [2355, 2427, 2470]
+a points: [2427, 2470, 2539]
+b points: [2470, 2539, 2577]
+a points: [2539, 2577, 2650]
+b points: [2577, 2650, 2690]
+a points: [2650, 2690, 2761]
+b points: [2690, 2761, 2800]
+a points: [2761, 2800, 2873]
+b points: [2800, 2873, 2913]
+a points: [2873, 2913, 2983]
+b points: [2913, 2983, 3024]
+a points: [2983, 3024, 3095]
+b points: [3024, 3095, 3136]
+a points: [3095, 3136, 3207]
+b points: [3136, 3207, 3247]
+a points: [3207, 3247, 3321]
+b points: [3247, 3321, 3359]
+a points: [3321, 3359, 3433]
+b points: [3359, 3433, 3473]
+a points: [3433, 3473, 3545]
+b points: [3473, 3545, 3586]
+a points: [3545, 3586, 3658]
+b points: [3586, 3658, 3697]
+a points: [3658, 3697, 3770]
+b points: [3697, 3770, 3813]
+a points: [3770, 3813, 3880]
+b points: [3813, 3880, 3919]
+a Length: 70
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 39
+Invalid Cycle Length.  Discarding...[3880, 3919, 3950]
+b Length: 77
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 31
+Invalid Cycle Length.  Discarding...[3919, 3950, 3996]
+a Length: 88
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 46
+Invalid Cycle Length.  Discarding...[3950, 3996, 4038]
+'a' Cycles Detected: 32
+'b' Cycles Detected: 24
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 21.6832167156
+Min: -8.28949965169
+Span: 29.9727163673
+
+Normalizing Height..
+Max: 18.9889657236
+Min: 4.42136431382
+Span: 14.5676014098
+
+Normalizing Height..
+Max: 12.7052525988
+Min: -8.06702887063
+Span: 20.7722814694
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 24
+
+new Length: 20
+
+Normalizing Height..
+Max: 21.5498343163
+Min: -9.214457421
+Span: 30.7642917373
+
+Normalizing Height..
+Max: 17.8273784243
+Min: 4.12800234937
+Span: 13.6993760749
+
+Normalizing Height..
+Max: 15.0570100804
+Min: -8.53434363353
+Span: 23.5913537139
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 50.3521697718
+Temp #2: -52.4729748102
+Score #1: 10
+Score #2: 7
+NO MATCH FOUND: 50/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4284
+Average y_acceleration: 10.3391865143
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4284
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 0
+Writing current data to:   distance.csv
+
+Optimal Distance: 105
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3391865143
+Local Max Points: 72
+Writing current data to:   local_max.csv
+
+a points: [254, 337, 375]
+b points: [337, 375, 447]
+a points: [375, 447, 488]
+b points: [447, 488, 547]
+a points: [488, 547, 598]
+b points: [547, 598, 668]
+a points: [598, 668, 707]
+b points: [668, 707, 766]
+a points: [707, 766, 817]
+b points: [766, 817, 888]
+a points: [817, 888, 927]
+b points: [888, 927, 997]
+a points: [927, 997, 1037]
+b points: [997, 1037, 1097]
+a points: [1037, 1097, 1147]
+b Length: 123
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 50
+Invalid Cycle Length.  Discarding...[1097, 1147, 1220]
+a Length: 132
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 73
+Invalid Cycle Length.  Discarding...[1147, 1220, 1279]
+b points: [1220, 1279, 1318]
+a points: [1279, 1318, 1370]
+b Length: 123
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 52
+Invalid Cycle Length.  Discarding...[1318, 1370, 1441]
+a points: [1370, 1441, 1476]
+b points: [1441, 1476, 1540]
+a points: [1476, 1540, 1590]
+b Length: 124
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 50
+Invalid Cycle Length.  Discarding...[1540, 1590, 1664]
+a points: [1590, 1664, 1701]
+b points: [1664, 1701, 1774]
+a points: [1701, 1774, 1811]
+b points: [1774, 1811, 1882]
+a points: [1811, 1882, 1922]
+b points: [1882, 1922, 1981]
+a Length: 130
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 59
+Invalid Cycle Length.  Discarding...[1922, 1981, 2052]
+b points: [1981, 2052, 2103]
+a Length: 164
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 51
+Invalid Cycle Length.  Discarding...[2052, 2103, 2216]
+b Length: 151
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2103, 2216, 2254]
+new points: [2103, 2159, 2216]
+b points: [2216, 2254, 2312]
+a points: [2254, 2312, 2364]
+b points: [2312, 2364, 2431]
+a points: [2364, 2431, 2472]
+b points: [2431, 2472, 2543]
+a points: [2472, 2543, 2585]
+b points: [2543, 2585, 2637]
+a points: [2585, 2637, 2692]
+b points: [2637, 2692, 2746]
+a points: [2692, 2746, 2796]
+b points: [2746, 2796, 2868]
+a points: [2796, 2868, 2905]
+b points: [2868, 2905, 2962]
+a points: [2905, 2962, 3013]
+b points: [2962, 3013, 3071]
+a points: [3013, 3071, 3122]
+b points: [3071, 3122, 3193]
+a points: [3122, 3193, 3232]
+b points: [3193, 3232, 3303]
+a points: [3232, 3303, 3342]
+b points: [3303, 3342, 3413]
+a Length: 133
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 71
+Invalid Cycle Length.  Discarding...[3342, 3413, 3475]
+b points: [3413, 3475, 3511]
+a points: [3475, 3511, 3563]
+b points: [3511, 3563, 3622]
+a points: [3563, 3622, 3673]
+b points: [3622, 3673, 3744]
+a points: [3673, 3744, 3785]
+b points: [3744, 3785, 3844]
+a points: [3785, 3844, 3896]
+b Length: 123
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 52
+Invalid Cycle Length.  Discarding...[3844, 3896, 3967]
+a points: [3896, 3967, 4008]
+b points: [3967, 4008, 4083]
+a points: [4008, 4083, 4126]
+'a' Cycles Detected: 31
+'b' Cycles Detected: 29
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 31
+
+new Length: 25
+
+Normalizing Height..
+Max: 10.5231644769
+Min: -19.0647589088
+Span: 29.5879233857
+
+Normalizing Height..
+Max: 17.5179622457
+Min: -0.514961426321
+Span: 18.032923672
+
+Normalizing Height..
+Max: 7.93899885242
+Min: -20.5880270308
+Span: 28.5270258832
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 29
+
+new Length: 25
+
+Normalizing Height..
+Max: 5.64552350526
+Min: -7.78292255907
+Span: 13.4284460643
+
+Normalizing Height..
+Max: 19.5340888211
+Min: 2.42139140015
+Span: 17.1126974209
+
+Normalizing Height..
+Max: 6.44351302421
+Min: -9.94759536352
+Span: 16.3911083877
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -59.6451357127
+Temp #2: 48.141881465
+Score #1: 2
+Score #2: 15
+NO MATCH FOUND: 48/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4250
+Average y_acceleration: 10.3663012475
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4250
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 112
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3663012475
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [284, 327, 395]
+b points: [327, 395, 440]
+a points: [395, 440, 507]
+b points: [440, 507, 549]
+a points: [507, 549, 603]
+b points: [549, 603, 672]
+a points: [603, 672, 710]
+b points: [672, 710, 783]
+a points: [710, 783, 831]
+b Length: 82
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 48
+Invalid Cycle Length.  Discarding...[783, 831, 865]
+a points: [831, 865, 940]
+b points: [865, 940, 981]
+a points: [940, 981, 1038]
+b points: [981, 1038, 1108]
+a points: [1038, 1108, 1160]
+b points: [1108, 1160, 1222]
+a points: [1160, 1222, 1260]
+b Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 38
+Invalid Cycle Length.  Discarding...[1222, 1260, 1311]
+a points: [1260, 1311, 1367]
+b points: [1311, 1367, 1420]
+a points: [1367, 1420, 1476]
+b points: [1420, 1476, 1533]
+a points: [1476, 1533, 1586]
+b points: [1533, 1586, 1642]
+a points: [1586, 1642, 1711]
+b Length: 164
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[1642, 1711, 1806]
+a Length: 147
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1711, 1806, 1858]
+new points: [1711, 1758, 1806]
+a points: [1806, 1858, 1917]
+b points: [1858, 1917, 1968]
+a points: [1917, 1968, 2039]
+b points: [1968, 2039, 2080]
+a points: [2039, 2080, 2138]
+b points: [2080, 2138, 2190]
+a points: [2138, 2190, 2261]
+b Length: 131
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[2190, 2261, 2321]
+a points: [2261, 2321, 2357]
+b points: [2321, 2357, 2429]
+a points: [2357, 2429, 2479]
+b Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 50
+Invalid Cycle Length.  Discarding...[2429, 2479, 2519]
+a points: [2479, 2519, 2579]
+b points: [2519, 2579, 2630]
+a points: [2579, 2630, 2704]
+b points: [2630, 2704, 2741]
+a points: [2704, 2741, 2814]
+b Length: 134
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 73
+Invalid Cycle Length.  Discarding...[2741, 2814, 2875]
+a points: [2814, 2875, 2925]
+b Length: 92
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 50
+Invalid Cycle Length.  Discarding...[2875, 2925, 2967]
+a points: [2925, 2967, 3024]
+b points: [2967, 3024, 3081]
+a points: [3024, 3081, 3135]
+b points: [3081, 3135, 3208]
+a points: [3135, 3208, 3246]
+b Length: 162
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 38
+Invalid Cycle Length.  Discarding...[3208, 3246, 3370]
+a Length: 171
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3246, 3370, 3417]
+new points: [3246, 3308, 3370]
+a points: [3370, 3417, 3480]
+b points: [3417, 3480, 3520]
+a points: [3480, 3520, 3580]
+b points: [3520, 3580, 3632]
+a points: [3580, 3632, 3704]
+b points: [3632, 3704, 3746]
+a points: [3704, 3746, 3805]
+b points: [3746, 3805, 3855]
+a points: [3805, 3855, 3930]
+b points: [3855, 3930, 3965]
+a points: [3930, 3965, 4047]
+b points: [3965, 4047, 4077]
+a Length: 82
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 30
+Invalid Cycle Length.  Discarding...[4047, 4077, 4129]
+'a' Cycles Detected: 34
+'b' Cycles Detected: 24
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 34
+
+new Length: 28
+
+Normalizing Height..
+Max: 3.73558637125
+Min: -3.30202699573
+Span: 7.03761336698
+
+Normalizing Height..
+Max: 19.1743949929
+Min: 2.97362674367
+Span: 16.2007682493
+
+Normalizing Height..
+Max: 6.27250186798
+Min: -7.30340508361
+Span: 13.5759069516
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 24
+
+new Length: 20
+
+Normalizing Height..
+Max: 4.04780304548
+Min: -7.22035148752
+Span: 11.268154533
+
+Normalizing Height..
+Max: 14.7754370399
+Min: 3.72744462718
+Span: 11.0479924127
+
+Normalizing Height..
+Max: 4.35652742637
+Min: -9.31125367769
+Span: 13.6677811041
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 44.7814511514
+Temp #2: -54.5106909306
+Score #1: 9
+Score #2: 5
+NO MATCH FOUND: 44/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4165
+Average y_acceleration: 10.286982246
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4165
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.286982246
+Local Max Points: 68
+Writing current data to:   local_max.csv
+
+a points: [264, 309, 363]
+b points: [309, 363, 414]
+a points: [363, 414, 472]
+b points: [414, 472, 524]
+a points: [472, 524, 584]
+b points: [524, 584, 636]
+a points: [584, 636, 705]
+b points: [636, 705, 746]
+a points: [705, 746, 815]
+b points: [746, 815, 857]
+a points: [815, 857, 925]
+b points: [857, 925, 969]
+a points: [925, 969, 1034]
+b points: [969, 1034, 1074]
+a points: [1034, 1074, 1132]
+b points: [1074, 1132, 1183]
+a points: [1132, 1183, 1240]
+b points: [1183, 1240, 1292]
+a points: [1240, 1292, 1361]
+b points: [1292, 1361, 1400]
+a points: [1361, 1400, 1470]
+b points: [1400, 1470, 1510]
+a points: [1470, 1510, 1566]
+b Length: 166
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 56
+Invalid Cycle Length.  Discarding...[1510, 1566, 1676]
+a Length: 166
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1566, 1676, 1732]
+new points: [1566, 1621, 1676]
+a points: [1676, 1732, 1797]
+b points: [1732, 1797, 1836]
+a points: [1797, 1836, 1906]
+b Length: 181
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[1836, 1906, 2017]
+a Length: 150
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1906, 2017, 2056]
+new points: [1906, 1961, 2017]
+a points: [2017, 2056, 2115]
+b points: [2056, 2115, 2168]
+a points: [2115, 2168, 2237]
+b points: [2168, 2237, 2284]
+a points: [2237, 2284, 2335]
+b Length: 158
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[2284, 2335, 2442]
+a Length: 160
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2335, 2442, 2495]
+new points: [2335, 2388, 2442]
+a points: [2442, 2495, 2550]
+b points: [2495, 2550, 2602]
+a points: [2550, 2602, 2672]
+b Length: 179
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[2602, 2672, 2781]
+a Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2672, 2781, 2821]
+new points: [2672, 2726, 2781]
+a points: [2781, 2821, 2878]
+b points: [2821, 2878, 2934]
+a points: [2878, 2934, 2999]
+b points: [2934, 2999, 3039]
+a points: [2999, 3039, 3097]
+b points: [3039, 3097, 3148]
+a points: [3097, 3148, 3205]
+b points: [3148, 3205, 3257]
+a points: [3205, 3257, 3315]
+b points: [3257, 3315, 3367]
+a points: [3315, 3367, 3425]
+b points: [3367, 3425, 3477]
+a points: [3425, 3477, 3536]
+b points: [3477, 3536, 3593]
+a points: [3536, 3593, 3647]
+b points: [3593, 3647, 3700]
+a points: [3647, 3700, 3758]
+b points: [3700, 3758, 3815]
+a points: [3758, 3815, 3872]
+b points: [3815, 3872, 3925]
+a points: [3872, 3925, 3992]
+b points: [3925, 3992, 4052]
+'a' Cycles Detected: 34
+'b' Cycles Detected: 26
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 34
+
+new Length: 28
+
+Normalizing Height..
+Max: 4.32832655748
+Min: -5.41812030474
+Span: 9.74644686223
+
+Normalizing Height..
+Max: 19.2238153086
+Min: 3.22941982238
+Span: 15.9943954862
+
+Normalizing Height..
+Max: 6.74304326794
+Min: -8.05253839886
+Span: 14.7955816668
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 26
+
+new Length: 22
+
+Normalizing Height..
+Max: 9.91014387926
+Min: -16.694857345
+Span: 26.6050012242
+
+Normalizing Height..
+Max: 17.6388990732
+Min: -2.02316892173
+Span: 19.662067995
+
+Normalizing Height..
+Max: 7.17652624486
+Min: -20.6014654699
+Span: 27.7779917148
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 42.5635839023
+Temp #2: -59.0128281454
+Score #1: 13
+Score #2: 3
+NO MATCH FOUND: 42/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4251
+Average y_acceleration: 10.2666103634
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4251
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 113
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2666103634
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [263, 306, 375]
+b Length: 181
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[306, 375, 487]
+a Length: 151
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [375, 487, 526]
+new points: [375, 431, 487]
+a points: [487, 526, 587]
+b Length: 183
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 61
+Invalid Cycle Length.  Discarding...[526, 587, 709]
+a Length: 162
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [587, 709, 749]
+new points: [587, 648, 709]
+a points: [709, 749, 808]
+b points: [749, 808, 862]
+a points: [808, 862, 930]
+b points: [862, 930, 970]
+a points: [930, 970, 1030]
+b points: [970, 1030, 1081]
+a points: [1030, 1081, 1141]
+b points: [1081, 1141, 1194]
+a points: [1141, 1194, 1252]
+b points: [1194, 1252, 1304]
+a points: [1252, 1304, 1363]
+b points: [1304, 1363, 1419]
+a points: [1363, 1419, 1475]
+b points: [1419, 1475, 1546]
+a points: [1475, 1546, 1597]
+b Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[1546, 1597, 1637]
+a points: [1597, 1637, 1698]
+b Length: 185
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 61
+Invalid Cycle Length.  Discarding...[1637, 1698, 1822]
+a Length: 164
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1698, 1822, 1862]
+new points: [1698, 1760, 1822]
+a points: [1822, 1862, 1933]
+b points: [1862, 1933, 1975]
+a points: [1933, 1975, 2046]
+b points: [1975, 2046, 2088]
+a points: [2046, 2088, 2156]
+b points: [2088, 2156, 2194]
+a points: [2156, 2194, 2254]
+b Length: 133
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 60
+Invalid Cycle Length.  Discarding...[2194, 2254, 2327]
+a points: [2254, 2327, 2378]
+b Length: 95
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 51
+Invalid Cycle Length.  Discarding...[2327, 2378, 2422]
+a points: [2378, 2422, 2489]
+b points: [2422, 2489, 2529]
+a points: [2489, 2529, 2602]
+b points: [2529, 2602, 2642]
+a points: [2602, 2642, 2715]
+b points: [2642, 2715, 2756]
+a points: [2715, 2756, 2827]
+b points: [2756, 2827, 2867]
+a points: [2827, 2867, 2926]
+b points: [2867, 2926, 2979]
+a points: [2926, 2979, 3038]
+b points: [2979, 3038, 3089]
+a points: [3038, 3089, 3162]
+b points: [3089, 3162, 3199]
+a points: [3162, 3199, 3272]
+b points: [3199, 3272, 3311]
+a points: [3272, 3311, 3373]
+b points: [3311, 3373, 3424]
+a points: [3373, 3424, 3483]
+b points: [3424, 3483, 3539]
+a points: [3483, 3539, 3608]
+b points: [3539, 3608, 3647]
+a points: [3608, 3647, 3719]
+b points: [3647, 3719, 3757]
+a points: [3719, 3757, 3818]
+b points: [3757, 3818, 3869]
+a points: [3818, 3869, 3942]
+b points: [3869, 3942, 3987]
+a points: [3942, 3987, 4044]
+b points: [3987, 4044, 4105]
+a points: [4044, 4105, 4140]
+'a' Cycles Detected: 35
+'b' Cycles Detected: 25
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 35
+
+new Length: 29
+
+Normalizing Height..
+Max: 4.63082807693
+Min: -4.47087411738
+Span: 9.10170219431
+
+Normalizing Height..
+Max: 19.2805548771
+Min: 2.80063490466
+Span: 16.4799199725
+
+Normalizing Height..
+Max: 6.17301715622
+Min: -6.48128492499
+Span: 12.6543020812
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 25
+
+new Length: 21
+
+Normalizing Height..
+Max: 9.60315982776
+Min: -14.0867617281
+Span: 23.6899215559
+
+Normalizing Height..
+Max: 17.3427709322
+Min: -2.53667948419
+Span: 19.8794504164
+
+Normalizing Height..
+Max: 6.53464159958
+Min: -19.5277034825
+Span: 26.0623450821
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 43.9734378979
+Temp #2: -58.374757469
+Score #1: 15
+Score #2: 3
+NO MATCH FOUND: 43/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4136
+Average y_acceleration: 10.425979953
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4136
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.425979953
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [209, 254, 322]
+b Length: 177
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 68
+Invalid Cycle Length.  Discarding...[254, 322, 431]
+a Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [322, 431, 471]
+new points: [322, 376, 431]
+a points: [431, 471, 544]
+b points: [471, 544, 585]
+a points: [544, 585, 657]
+b points: [585, 657, 694]
+a points: [657, 694, 765]
+b points: [694, 765, 805]
+a points: [765, 805, 874]
+b points: [805, 874, 915]
+a points: [874, 915, 986]
+b points: [915, 986, 1023]
+a points: [986, 1023, 1093]
+b points: [1023, 1093, 1133]
+a points: [1093, 1133, 1205]
+b points: [1133, 1205, 1243]
+a points: [1205, 1243, 1315]
+b points: [1243, 1315, 1352]
+a points: [1315, 1352, 1423]
+b points: [1352, 1423, 1461]
+a points: [1423, 1461, 1534]
+b points: [1461, 1534, 1572]
+a points: [1534, 1572, 1640]
+b points: [1572, 1640, 1682]
+a points: [1640, 1682, 1753]
+b points: [1682, 1753, 1790]
+a points: [1753, 1790, 1863]
+b points: [1790, 1863, 1901]
+a points: [1863, 1901, 1973]
+b points: [1901, 1973, 2011]
+a points: [1973, 2011, 2085]
+b points: [2011, 2085, 2122]
+a points: [2085, 2122, 2194]
+b points: [2122, 2194, 2232]
+a points: [2194, 2232, 2303]
+b points: [2232, 2303, 2342]
+a points: [2303, 2342, 2402]
+b points: [2342, 2402, 2454]
+a points: [2402, 2454, 2512]
+b points: [2454, 2512, 2564]
+a points: [2512, 2564, 2637]
+b points: [2564, 2637, 2675]
+a points: [2637, 2675, 2747]
+b points: [2675, 2747, 2786]
+a points: [2747, 2786, 2857]
+b points: [2786, 2857, 2896]
+a points: [2857, 2896, 2968]
+b points: [2896, 2968, 3006]
+a points: [2968, 3006, 3077]
+b points: [3006, 3077, 3122]
+a points: [3077, 3122, 3188]
+b points: [3122, 3188, 3229]
+a points: [3188, 3229, 3300]
+b points: [3229, 3300, 3339]
+a points: [3300, 3339, 3413]
+b points: [3339, 3413, 3451]
+a points: [3413, 3451, 3523]
+b points: [3451, 3523, 3565]
+a points: [3523, 3565, 3627]
+b points: [3565, 3627, 3682]
+a points: [3627, 3682, 3753]
+b points: [3682, 3753, 3791]
+a points: [3753, 3791, 3868]
+b points: [3791, 3868, 3912]
+a points: [3868, 3912, 3975]
+b points: [3912, 3975, 4035]
+'a' Cycles Detected: 34
+'b' Cycles Detected: 32
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 34
+
+new Length: 28
+
+Normalizing Height..
+Max: 18.6308813225
+Min: -7.24835763762
+Span: 25.8792389601
+
+Normalizing Height..
+Max: 19.1659544143
+Min: 2.07769295668
+Span: 17.0882614576
+
+Normalizing Height..
+Max: 11.3369563451
+Min: -9.51147765764
+Span: 20.8484340027
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 25.2110235177
+Min: -11.9704349482
+Span: 37.1814584659
+
+Normalizing Height..
+Max: 18.3983437265
+Min: 0.266433658567
+Span: 18.131910068
+
+Normalizing Height..
+Max: 18.663456163
+Min: -9.98671949552
+Span: 28.6501756585
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 49.1773184671
+Temp #2: -53.9330686872
+Score #1: 15
+Score #2: 5
+NO MATCH FOUND: 49/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4196
+Average y_acceleration: 10.2785333195
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4196
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2785333195
+Local Max Points: 72
+Writing current data to:   local_max.csv
+
+a points: [252, 295, 351]
+b points: [295, 351, 403]
+a points: [351, 403, 461]
+b points: [403, 461, 515]
+a points: [461, 515, 582]
+b points: [515, 582, 627]
+a points: [582, 627, 682]
+b points: [627, 682, 733]
+a points: [682, 733, 791]
+b points: [733, 791, 842]
+a points: [791, 842, 902]
+b points: [842, 902, 958]
+a points: [902, 958, 1025]
+b points: [958, 1025, 1067]
+a points: [1025, 1067, 1137]
+b points: [1067, 1137, 1178]
+a points: [1137, 1178, 1247]
+b points: [1178, 1247, 1286]
+a points: [1247, 1286, 1346]
+b points: [1286, 1346, 1403]
+a points: [1346, 1403, 1456]
+b points: [1403, 1456, 1509]
+a points: [1456, 1509, 1567]
+b points: [1509, 1567, 1622]
+a points: [1567, 1622, 1679]
+b points: [1622, 1679, 1731]
+a points: [1679, 1731, 1804]
+b points: [1731, 1804, 1846]
+a points: [1804, 1846, 1907]
+b points: [1846, 1907, 1958]
+a points: [1907, 1958, 2030]
+b points: [1958, 2030, 2072]
+a points: [2030, 2072, 2128]
+b points: [2072, 2128, 2186]
+a points: [2128, 2186, 2239]
+b points: [2186, 2239, 2293]
+a points: [2239, 2293, 2365]
+b points: [2293, 2365, 2405]
+a points: [2365, 2405, 2465]
+b points: [2405, 2465, 2519]
+a points: [2465, 2519, 2592]
+b points: [2519, 2592, 2631]
+a points: [2592, 2631, 2691]
+b points: [2631, 2691, 2744]
+a points: [2691, 2744, 2815]
+b points: [2744, 2815, 2858]
+a points: [2815, 2858, 2915]
+b points: [2858, 2915, 2971]
+a points: [2915, 2971, 3026]
+b points: [2971, 3026, 3079]
+a points: [3026, 3079, 3140]
+b points: [3079, 3140, 3191]
+a points: [3140, 3191, 3262]
+b points: [3191, 3262, 3302]
+a points: [3262, 3302, 3363]
+b points: [3302, 3363, 3416]
+a points: [3363, 3416, 3487]
+b points: [3416, 3487, 3528]
+a points: [3487, 3528, 3600]
+b points: [3528, 3600, 3643]
+a points: [3600, 3643, 3701]
+b points: [3643, 3701, 3754]
+a points: [3701, 3754, 3827]
+b points: [3754, 3827, 3870]
+a points: [3827, 3870, 3941]
+b points: [3870, 3941, 3989]
+a points: [3941, 3989, 4062]
+b points: [3989, 4062, 4098]
+'a' Cycles Detected: 34
+'b' Cycles Detected: 34
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 34
+
+new Length: 28
+
+Normalizing Height..
+Max: 4.61702513828
+Min: -5.12209966745
+Span: 9.73912480573
+
+Normalizing Height..
+Max: 19.3969720022
+Min: 2.19876499567
+Span: 17.1982070065
+
+Normalizing Height..
+Max: 6.39415105116
+Min: -8.37057907272
+Span: 14.7647301239
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 34
+
+new Length: 28
+
+Normalizing Height..
+Max: 8.37435031402
+Min: -15.3286774238
+Span: 23.7030277378
+
+Normalizing Height..
+Max: 17.4050690229
+Min: -3.31312471402
+Span: 20.718193737
+
+Normalizing Height..
+Max: 6.20619228411
+Min: -20.7992492485
+Span: 27.0054415326
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 45.4506217258
+Temp #2: -55.7011861275
+Score #1: 13
+Score #2: 1
+NO MATCH FOUND: 45/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4089
+Average y_acceleration: 10.18888223
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4089
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.18888223
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [238, 285, 338]
+b points: [285, 338, 392]
+a points: [338, 392, 447]
+b points: [392, 447, 501]
+a points: [447, 501, 559]
+b points: [501, 559, 611]
+a points: [559, 611, 668]
+b points: [611, 668, 719]
+a points: [668, 719, 777]
+b points: [719, 777, 831]
+a points: [777, 831, 900]
+b points: [831, 900, 940]
+a points: [900, 940, 1008]
+b points: [940, 1008, 1047]
+a points: [1008, 1047, 1104]
+b points: [1047, 1104, 1158]
+a points: [1104, 1158, 1216]
+b points: [1158, 1216, 1269]
+a points: [1216, 1269, 1328]
+b points: [1269, 1328, 1380]
+a points: [1328, 1380, 1449]
+b points: [1380, 1449, 1490]
+a points: [1449, 1490, 1547]
+b points: [1490, 1547, 1600]
+a points: [1547, 1600, 1670]
+b points: [1600, 1670, 1715]
+a points: [1670, 1715, 1770]
+b points: [1715, 1770, 1822]
+a points: [1770, 1822, 1880]
+b points: [1822, 1880, 1934]
+a points: [1880, 1934, 1991]
+b points: [1934, 1991, 2044]
+a points: [1991, 2044, 2101]
+b points: [2044, 2101, 2154]
+a points: [2101, 2154, 2223]
+b points: [2154, 2223, 2263]
+a points: [2223, 2263, 2320]
+b points: [2263, 2320, 2373]
+a points: [2320, 2373, 2444]
+b points: [2373, 2444, 2483]
+a points: [2444, 2483, 2554]
+b points: [2483, 2554, 2594]
+a points: [2554, 2594, 2653]
+b points: [2594, 2653, 2706]
+a points: [2653, 2706, 2776]
+b points: [2706, 2776, 2817]
+a points: [2776, 2817, 2875]
+b points: [2817, 2875, 2928]
+a points: [2875, 2928, 2998]
+b points: [2928, 2998, 3044]
+a points: [2998, 3044, 3109]
+b points: [3044, 3109, 3151]
+a points: [3109, 3151, 3208]
+b points: [3151, 3208, 3262]
+a points: [3208, 3262, 3322]
+b points: [3262, 3322, 3375]
+a points: [3322, 3375, 3435]
+b points: [3375, 3435, 3488]
+a points: [3435, 3488, 3547]
+b points: [3488, 3547, 3600]
+a points: [3547, 3600, 3658]
+b points: [3600, 3658, 3711]
+a points: [3658, 3711, 3773]
+b points: [3711, 3773, 3828]
+a Length: 130
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 55
+Invalid Cycle Length.  Discarding...[3773, 3828, 3903]
+b points: [3828, 3903, 3949]
+a Length: 82
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 46
+Invalid Cycle Length.  Discarding...[3903, 3949, 3985]
+'a' Cycles Detected: 32
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 5.32574654252
+Min: -5.19811974279
+Span: 10.5238662853
+
+Normalizing Height..
+Max: 19.4451147268
+Min: 0.907052321566
+Span: 18.5380624053
+
+Normalizing Height..
+Max: 6.35062356526
+Min: -10.6144154122
+Span: 16.9650389775
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 10.9151569686
+Min: -17.9816701934
+Span: 28.8968271621
+
+Normalizing Height..
+Max: 18.2758123065
+Min: -6.13030212345
+Span: 24.4061144299
+
+Normalizing Height..
+Max: 7.7757045096
+Min: -23.3306369579
+Span: 31.1063414675
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 44.4522658022
+Temp #2: -53.1897705546
+Score #1: 16
+Score #2: 4
+NO MATCH FOUND: 44/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4099
+Average y_acceleration: 10.2946228916
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4099
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 108
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2946228916
+Local Max Points: 72
+Writing current data to:   local_max.csv
+
+a points: [186, 255, 307]
+b points: [255, 307, 351]
+a points: [307, 351, 404]
+b points: [351, 404, 460]
+a points: [404, 460, 515]
+b points: [460, 515, 571]
+a points: [515, 571, 637]
+b points: [571, 637, 696]
+a points: [637, 696, 734]
+b points: [696, 734, 791]
+a points: [734, 791, 858]
+b points: [791, 858, 896]
+a points: [858, 896, 955]
+b points: [896, 955, 1005]
+a points: [955, 1005, 1063]
+b points: [1005, 1063, 1115]
+a points: [1063, 1115, 1174]
+b points: [1115, 1174, 1227]
+a points: [1174, 1227, 1296]
+b points: [1227, 1296, 1340]
+a points: [1296, 1340, 1395]
+b points: [1340, 1395, 1447]
+a points: [1395, 1447, 1504]
+b points: [1447, 1504, 1556]
+a points: [1504, 1556, 1628]
+b points: [1556, 1628, 1667]
+a points: [1628, 1667, 1737]
+b points: [1667, 1737, 1778]
+a points: [1737, 1778, 1848]
+b points: [1778, 1848, 1888]
+a points: [1848, 1888, 1958]
+b points: [1888, 1958, 1999]
+a points: [1958, 1999, 2057]
+b points: [1999, 2057, 2109]
+a points: [2057, 2109, 2167]
+b points: [2109, 2167, 2223]
+a points: [2167, 2223, 2278]
+b points: [2223, 2278, 2334]
+a points: [2278, 2334, 2390]
+b points: [2334, 2390, 2441]
+a points: [2390, 2441, 2500]
+b points: [2441, 2500, 2555]
+a points: [2500, 2555, 2612]
+b points: [2555, 2612, 2666]
+a points: [2612, 2666, 2724]
+b points: [2666, 2724, 2780]
+a points: [2724, 2780, 2835]
+b points: [2780, 2835, 2888]
+a points: [2835, 2888, 2959]
+b points: [2888, 2959, 3003]
+a points: [2959, 3003, 3070]
+b points: [3003, 3070, 3114]
+a points: [3070, 3114, 3186]
+b points: [3114, 3186, 3225]
+a points: [3186, 3225, 3297]
+b points: [3225, 3297, 3337]
+a points: [3297, 3337, 3408]
+b points: [3337, 3408, 3448]
+a points: [3408, 3448, 3508]
+b points: [3448, 3508, 3561]
+a points: [3508, 3561, 3621]
+b points: [3561, 3621, 3673]
+a points: [3621, 3673, 3735]
+b points: [3673, 3735, 3789]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 54
+Invalid Cycle Length.  Discarding...[3735, 3789, 3864]
+b points: [3789, 3864, 3899]
+a points: [3864, 3899, 3964]
+b points: [3899, 3964, 4001]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 34
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 4.41068851424
+Min: -5.04902507181
+Span: 9.45971358605
+
+Normalizing Height..
+Max: 19.5513743834
+Min: 2.22469725575
+Span: 17.3266771277
+
+Normalizing Height..
+Max: 5.80219691523
+Min: -9.02013989713
+Span: 14.8223368124
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 34
+
+new Length: 28
+
+Normalizing Height..
+Max: 6.9146041794
+Min: -11.6134860251
+Span: 18.5280902045
+
+Normalizing Height..
+Max: 16.9696115455
+Min: -0.944242252968
+Span: 17.9138537985
+
+Normalizing Height..
+Max: 5.93545836315
+Min: -16.122844369
+Span: 22.0583027322
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 45.9511819466
+Temp #2: -58.1158252274
+Score #1: 16
+Score #2: 2
+NO MATCH FOUND: 45/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3956
+Average y_acceleration: 10.229893791
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3956
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 0
+Writing current data to:   distance.csv
+
+Optimal Distance: 105
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.229893791
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [251, 317, 370]
+b points: [317, 370, 414]
+a points: [370, 414, 480]
+b Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 66
+Invalid Cycle Length.  Discarding...[414, 480, 543]
+a points: [480, 543, 584]
+b points: [543, 584, 650]
+a points: [584, 650, 695]
+b points: [650, 695, 761]
+a points: [695, 761, 803]
+b points: [761, 803, 859]
+a points: [803, 859, 911]
+b points: [859, 911, 979]
+a points: [911, 979, 1023]
+b points: [979, 1023, 1076]
+a points: [1023, 1076, 1128]
+b points: [1076, 1128, 1197]
+a points: [1128, 1197, 1237]
+b points: [1197, 1237, 1294]
+a points: [1237, 1294, 1349]
+b points: [1294, 1349, 1413]
+a points: [1349, 1413, 1453]
+b points: [1413, 1453, 1521]
+a points: [1453, 1521, 1560]
+b points: [1521, 1560, 1616]
+a points: [1560, 1616, 1668]
+b points: [1616, 1668, 1735]
+a points: [1668, 1735, 1775]
+b points: [1735, 1775, 1843]
+a points: [1775, 1843, 1881]
+b points: [1843, 1881, 1936]
+a points: [1881, 1936, 1988]
+b points: [1936, 1988, 2042]
+a points: [1988, 2042, 2097]
+b points: [2042, 2097, 2148]
+a points: [2097, 2148, 2200]
+b points: [2148, 2200, 2253]
+a points: [2200, 2253, 2305]
+b points: [2253, 2305, 2361]
+a points: [2305, 2361, 2412]
+b points: [2361, 2412, 2480]
+a points: [2412, 2480, 2518]
+b points: [2480, 2518, 2585]
+a points: [2518, 2585, 2625]
+b points: [2585, 2625, 2681]
+a points: [2625, 2681, 2732]
+b points: [2681, 2732, 2787]
+a points: [2732, 2787, 2839]
+b points: [2787, 2839, 2908]
+a points: [2839, 2908, 2951]
+b points: [2908, 2951, 3004]
+a points: [2951, 3004, 3054]
+b points: [3004, 3054, 3122]
+a points: [3054, 3122, 3162]
+b points: [3122, 3162, 3233]
+a points: [3162, 3233, 3270]
+b points: [3233, 3270, 3326]
+a points: [3270, 3326, 3382]
+b points: [3326, 3382, 3446]
+a points: [3382, 3446, 3480]
+b points: [3446, 3480, 3544]
+a points: [3480, 3544, 3595]
+b points: [3544, 3595, 3665]
+a points: [3595, 3665, 3701]
+b points: [3665, 3701, 3778]
+a points: [3701, 3778, 3820]
+b points: [3778, 3820, 3900]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 32
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 8.71852318319
+Min: -15.1490056646
+Span: 23.8675288478
+
+Normalizing Height..
+Max: 16.8080621499
+Min: 0.653747882334
+Span: 16.1543142675
+
+Normalizing Height..
+Max: 7.67933864252
+Min: -19.627501187
+Span: 27.3068398296
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 5.63203417808
+Min: -5.33393519606
+Span: 10.9659693741
+
+Normalizing Height..
+Max: 18.6738336
+Min: 3.46688268669
+Span: 15.2069509133
+
+Normalizing Height..
+Max: 7.25736009695
+Min: -7.36946672109
+Span: 14.626826818
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -52.6630841431
+Temp #2: 48.4505853971
+Score #1: 7
+Score #2: 11
+NO MATCH FOUND: 48/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4070
+Average y_acceleration: 10.2466064556
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4070
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2466064556
+Local Max Points: 70
+Writing current data to:   local_max.csv
+
+a points: [233, 295, 331]
+b points: [295, 331, 409]
+a points: [331, 409, 441]
+b points: [409, 441, 515]
+a points: [441, 515, 560]
+b points: [515, 560, 611]
+a points: [560, 611, 662]
+b points: [611, 662, 729]
+a points: [662, 729, 769]
+b points: [729, 769, 836]
+a points: [769, 836, 880]
+b points: [836, 880, 930]
+a points: [880, 930, 982]
+b points: [930, 982, 1037]
+a points: [982, 1037, 1087]
+b points: [1037, 1087, 1152]
+a points: [1087, 1152, 1193]
+b points: [1152, 1193, 1261]
+a points: [1193, 1261, 1298]
+b Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 37
+Invalid Cycle Length.  Discarding...[1261, 1298, 1352]
+a points: [1298, 1352, 1406]
+b points: [1352, 1406, 1457]
+a Length: 157
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 51
+Invalid Cycle Length.  Discarding...[1406, 1457, 1563]
+b Length: 157
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1457, 1563, 1614]
+new points: [1457, 1510, 1563]
+b points: [1563, 1614, 1669]
+a points: [1614, 1669, 1719]
+b points: [1669, 1719, 1788]
+a points: [1719, 1788, 1826]
+b points: [1788, 1826, 1881]
+a points: [1826, 1881, 1934]
+b points: [1881, 1934, 2003]
+a points: [1934, 2003, 2045]
+b points: [2003, 2045, 2098]
+a points: [2045, 2098, 2150]
+b points: [2098, 2150, 2218]
+a points: [2150, 2218, 2258]
+b points: [2218, 2258, 2317]
+a points: [2258, 2317, 2371]
+b points: [2317, 2371, 2425]
+a points: [2371, 2425, 2476]
+b points: [2425, 2476, 2532]
+a points: [2476, 2532, 2586]
+b points: [2532, 2586, 2652]
+a points: [2586, 2652, 2691]
+b points: [2652, 2691, 2746]
+a points: [2691, 2746, 2798]
+b points: [2746, 2798, 2854]
+a points: [2798, 2854, 2906]
+b points: [2854, 2906, 2973]
+a points: [2906, 2973, 3013]
+b points: [2973, 3013, 3084]
+a points: [3013, 3084, 3123]
+b points: [3084, 3123, 3195]
+a points: [3123, 3195, 3233]
+b points: [3195, 3233, 3288]
+a points: [3233, 3288, 3343]
+b points: [3288, 3343, 3411]
+a points: [3343, 3411, 3451]
+b points: [3411, 3451, 3519]
+a points: [3451, 3519, 3563]
+b points: [3519, 3563, 3633]
+a points: [3563, 3633, 3671]
+b points: [3633, 3671, 3741]
+a points: [3671, 3741, 3780]
+b points: [3741, 3780, 3860]
+a points: [3780, 3860, 3904]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 31
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 9.6374469462
+Min: -12.2563350539
+Span: 21.8937820001
+
+Normalizing Height..
+Max: 17.2810906408
+Min: -1.62697449425
+Span: 18.9080651351
+
+Normalizing Height..
+Max: 7.95348890335
+Min: -18.8913798915
+Span: 26.8448687949
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 31
+
+new Length: 25
+
+Normalizing Height..
+Max: 5.22577948156
+Min: -2.97957628225
+Span: 8.20535576381
+
+Normalizing Height..
+Max: 18.5698122976
+Min: 2.72748366208
+Span: 15.8423286355
+
+Normalizing Height..
+Max: 6.64352642946
+Min: -6.72672315225
+Span: 13.3702495817
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -52.6814534387
+Temp #2: 48.7876014086
+Score #1: 4
+Score #2: 13
+NO MATCH FOUND: 48/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4160
+Average y_acceleration: 10.3073091488
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4160
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 111
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3073091488
+Local Max Points: 68
+Writing current data to:   local_max.csv
+
+a points: [261, 304, 361]
+b points: [304, 361, 414]
+a points: [361, 414, 471]
+b points: [414, 471, 523]
+a points: [471, 523, 592]
+b points: [523, 592, 633]
+a points: [592, 633, 704]
+b points: [633, 704, 746]
+a points: [704, 746, 800]
+b points: [746, 800, 855]
+a points: [800, 855, 909]
+b points: [855, 909, 961]
+a points: [909, 961, 1031]
+b points: [961, 1031, 1070]
+a points: [1031, 1070, 1140]
+b points: [1070, 1140, 1178]
+a points: [1140, 1178, 1236]
+b points: [1178, 1236, 1288]
+a points: [1236, 1288, 1360]
+b points: [1288, 1360, 1399]
+a points: [1360, 1399, 1454]
+b points: [1399, 1454, 1509]
+a points: [1454, 1509, 1577]
+b points: [1509, 1577, 1618]
+a points: [1577, 1618, 1689]
+b points: [1618, 1689, 1728]
+a points: [1689, 1728, 1801]
+b points: [1728, 1801, 1842]
+a points: [1801, 1842, 1914]
+b points: [1842, 1914, 1951]
+a points: [1914, 1951, 2026]
+b points: [1951, 2026, 2063]
+a points: [2026, 2063, 2137]
+b points: [2063, 2137, 2179]
+a points: [2137, 2179, 2249]
+b Length: 131
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[2179, 2249, 2310]
+a points: [2249, 2310, 2364]
+b Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 54
+Invalid Cycle Length.  Discarding...[2310, 2364, 2401]
+a points: [2364, 2401, 2475]
+b points: [2401, 2475, 2512]
+a points: [2475, 2512, 2570]
+b points: [2512, 2570, 2624]
+a points: [2570, 2624, 2697]
+b points: [2624, 2697, 2739]
+a points: [2697, 2739, 2806]
+b Length: 179
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 67
+Invalid Cycle Length.  Discarding...[2739, 2806, 2918]
+a Length: 153
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2806, 2918, 2959]
+new points: [2806, 2862, 2918]
+a points: [2918, 2959, 3032]
+b points: [2959, 3032, 3071]
+a points: [3032, 3071, 3141]
+b points: [3071, 3141, 3185]
+a points: [3141, 3185, 3256]
+b Length: 182
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[3185, 3256, 3367]
+a Length: 150
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3256, 3367, 3406]
+new points: [3256, 3311, 3367]
+a points: [3367, 3406, 3480]
+b points: [3406, 3480, 3523]
+a points: [3480, 3523, 3593]
+b points: [3523, 3593, 3633]
+a points: [3593, 3633, 3703]
+b points: [3633, 3703, 3743]
+a points: [3703, 3743, 3819]
+b points: [3743, 3819, 3861]
+a points: [3819, 3861, 3937]
+b points: [3861, 3937, 3980]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 27
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 8.45731638767
+Min: -9.88060363363
+Span: 18.3379200213
+
+Normalizing Height..
+Max: 18.5088012841
+Min: 3.04513851718
+Span: 15.4636627669
+
+Normalizing Height..
+Max: 7.04385345243
+Min: -11.8803832794
+Span: 18.9242367318
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 27
+
+new Length: 23
+
+Normalizing Height..
+Max: 9.89747239868
+Min: -17.7397192668
+Span: 27.6371916655
+
+Normalizing Height..
+Max: 17.7277133236
+Min: 0.588152672347
+Span: 17.1395606512
+
+Normalizing Height..
+Max: 7.95046137488
+Min: -20.4550809959
+Span: 28.4055423708
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 49.2645724082
+Temp #2: -52.2955949611
+Score #1: 11
+Score #2: 5
+NO MATCH FOUND: 49/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4221
+Average y_acceleration: 10.2695198553
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4221
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 111
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2695198553
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [270, 310, 367]
+b points: [310, 367, 419]
+a points: [367, 419, 491]
+b Length: 168
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 72
+Invalid Cycle Length.  Discarding...[419, 491, 587]
+a Length: 170
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [491, 587, 661]
+new points: [491, 539, 587]
+a points: [587, 661, 697]
+b Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 36
+Invalid Cycle Length.  Discarding...[661, 697, 751]
+a points: [697, 751, 805]
+b points: [751, 805, 858]
+a points: [805, 858, 914]
+b points: [858, 914, 967]
+a points: [914, 967, 1023]
+b points: [967, 1023, 1077]
+a points: [1023, 1077, 1134]
+b points: [1077, 1134, 1186]
+a points: [1134, 1186, 1243]
+b points: [1186, 1243, 1295]
+a points: [1243, 1295, 1352]
+b points: [1295, 1352, 1408]
+a points: [1352, 1408, 1455]
+b points: [1408, 1455, 1513]
+a points: [1455, 1513, 1570]
+b points: [1513, 1570, 1627]
+a points: [1570, 1627, 1693]
+b points: [1627, 1693, 1734]
+a points: [1693, 1734, 1802]
+b points: [1734, 1802, 1844]
+a points: [1802, 1844, 1915]
+b points: [1844, 1915, 1954]
+a points: [1915, 1954, 2010]
+b points: [1954, 2010, 2066]
+a points: [2010, 2066, 2122]
+b points: [2066, 2122, 2176]
+a points: [2122, 2176, 2241]
+b points: [2176, 2241, 2288]
+a points: [2241, 2288, 2341]
+b points: [2288, 2341, 2393]
+a points: [2341, 2393, 2452]
+b points: [2393, 2452, 2504]
+a points: [2452, 2504, 2562]
+b points: [2504, 2562, 2613]
+a points: [2562, 2613, 2672]
+b points: [2613, 2672, 2718]
+a points: [2672, 2718, 2781]
+b points: [2718, 2781, 2838]
+a points: [2781, 2838, 2892]
+b points: [2838, 2892, 2944]
+a points: [2892, 2944, 3014]
+b points: [2944, 3014, 3055]
+a points: [3014, 3055, 3113]
+b points: [3055, 3113, 3165]
+a points: [3113, 3165, 3224]
+b points: [3165, 3224, 3276]
+a points: [3224, 3276, 3336]
+b points: [3276, 3336, 3388]
+a points: [3336, 3388, 3445]
+b points: [3388, 3445, 3493]
+a points: [3445, 3493, 3556]
+b points: [3493, 3556, 3607]
+a points: [3556, 3607, 3657]
+b points: [3607, 3657, 3716]
+a points: [3657, 3716, 3777]
+b points: [3716, 3777, 3825]
+a points: [3777, 3825, 3889]
+b points: [3825, 3889, 3939]
+a Length: 135
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 50
+Invalid Cycle Length.  Discarding...[3889, 3939, 4024]
+b Length: 130
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 85
+Invalid Cycle Length.  Discarding...[3939, 4024, 4069]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 30
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 8.5406414205
+Min: -10.2995024173
+Span: 18.8401438378
+
+Normalizing Height..
+Max: 19.2230078512
+Min: 3.41019244114
+Span: 15.81281541
+
+Normalizing Height..
+Max: 7.47089347994
+Min: -12.4792815973
+Span: 19.9501750772
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 30
+
+new Length: 24
+
+Normalizing Height..
+Max: 8.79306490094
+Min: -13.0912238977
+Span: 21.8842887986
+
+Normalizing Height..
+Max: 16.5540687661
+Min: 1.01360083039
+Span: 15.5404679357
+
+Normalizing Height..
+Max: 7.3278968894
+Min: -17.509622863
+Span: 24.8375197524
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 43.0043525691
+Temp #2: -55.6760707898
+Score #1: 11
+Score #2: 6
+NO MATCH FOUND: 43/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4217
+Average y_acceleration: 10.3254766917
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4217
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 114
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.3254766917
+Local Max Points: 68
+Writing current data to:   local_max.csv
+
+a points: [327, 364, 428]
+b points: [364, 428, 481]
+a points: [428, 481, 527]
+b points: [481, 527, 589]
+a points: [527, 589, 646]
+b points: [589, 646, 697]
+a points: [646, 697, 768]
+b points: [697, 768, 808]
+a points: [768, 808, 878]
+b points: [808, 878, 919]
+a points: [878, 919, 977]
+b points: [919, 977, 1029]
+a points: [977, 1029, 1098]
+b points: [1029, 1098, 1138]
+a points: [1098, 1138, 1206]
+b points: [1138, 1206, 1246]
+a Length: 95
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 40
+Invalid Cycle Length.  Discarding...[1206, 1246, 1301]
+b points: [1246, 1301, 1353]
+a points: [1301, 1353, 1409]
+b points: [1353, 1409, 1460]
+a points: [1409, 1460, 1528]
+b points: [1460, 1528, 1572]
+a points: [1528, 1572, 1638]
+b points: [1572, 1638, 1679]
+a points: [1638, 1679, 1738]
+b Length: 160
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 59
+Invalid Cycle Length.  Discarding...[1679, 1738, 1839]
+a Length: 162
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1738, 1839, 1900]
+new points: [1738, 1788, 1839]
+a Length: 133
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 61
+Invalid Cycle Length.  Discarding...[1839, 1900, 1972]
+b points: [1900, 1972, 2011]
+a points: [1972, 2011, 2069]
+b points: [2011, 2069, 2115]
+a points: [2069, 2115, 2193]
+b points: [2115, 2193, 2237]
+a Length: 96
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 44
+Invalid Cycle Length.  Discarding...[2193, 2237, 2289]
+b points: [2237, 2289, 2341]
+a points: [2289, 2341, 2400]
+b points: [2341, 2400, 2453]
+a points: [2400, 2453, 2510]
+b points: [2453, 2510, 2562]
+a points: [2510, 2562, 2630]
+b points: [2562, 2630, 2671]
+a points: [2630, 2671, 2741]
+b points: [2671, 2741, 2781]
+a points: [2741, 2781, 2838]
+b points: [2781, 2838, 2891]
+a points: [2838, 2891, 2949]
+b points: [2891, 2949, 3001]
+a points: [2949, 3001, 3059]
+b points: [3001, 3059, 3106]
+a points: [3059, 3106, 3170]
+b points: [3106, 3170, 3223]
+a points: [3170, 3223, 3280]
+b points: [3223, 3280, 3331]
+a points: [3280, 3331, 3405]
+b points: [3331, 3405, 3447]
+a points: [3405, 3447, 3515]
+b points: [3447, 3515, 3555]
+a points: [3515, 3555, 3629]
+b Length: 171
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 74
+Invalid Cycle Length.  Discarding...[3555, 3629, 3726]
+a Length: 150
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3629, 3726, 3779]
+new points: [3629, 3677, 3726]
+a points: [3726, 3779, 3839]
+b points: [3779, 3839, 3892]
+a points: [3839, 3892, 3969]
+b points: [3892, 3969, 4016]
+'a' Cycles Detected: 30
+'b' Cycles Detected: 29
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 30
+
+new Length: 24
+
+Normalizing Height..
+Max: 5.34413715095
+Min: -3.16089371528
+Span: 8.50503086624
+
+Normalizing Height..
+Max: 18.8442103068
+Min: 3.90458908498
+Span: 14.9396212218
+
+Normalizing Height..
+Max: 6.90519533984
+Min: -7.61582103168
+Span: 14.5210163715
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 29
+
+new Length: 25
+
+Normalizing Height..
+Max: 9.80087276096
+Min: -16.7768726977
+Span: 26.5777454587
+
+Normalizing Height..
+Max: 17.2261871511
+Min: -1.08188039528
+Span: 18.3080675464
+
+Normalizing Height..
+Max: 7.64500530216
+Min: -22.0125946584
+Span: 29.6575999606
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 46.5680999027
+Temp #2: -54.3110225802
+Score #1: 14
+Score #2: 4
+NO MATCH FOUND: 46/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4265
+Average y_acceleration: 10.2349725916
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4265
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 112
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2349725916
+Local Max Points: 73
+Writing current data to:   local_max.csv
+
+a points: [250, 326, 362]
+b points: [326, 362, 438]
+a points: [362, 438, 474]
+b points: [438, 474, 549]
+a points: [474, 549, 584]
+b points: [549, 584, 660]
+a points: [584, 660, 701]
+b points: [660, 701, 759]
+a points: [701, 759, 811]
+b points: [759, 811, 868]
+a points: [811, 868, 925]
+b points: [868, 925, 978]
+a points: [925, 978, 1030]
+b points: [978, 1030, 1088]
+a points: [1030, 1088, 1140]
+b points: [1088, 1140, 1197]
+a points: [1140, 1197, 1247]
+b points: [1197, 1247, 1306]
+a points: [1247, 1306, 1363]
+b points: [1306, 1363, 1416]
+a points: [1363, 1416, 1468]
+b points: [1416, 1468, 1525]
+a points: [1468, 1525, 1577]
+b points: [1525, 1577, 1647]
+a points: [1577, 1647, 1687]
+b points: [1647, 1687, 1758]
+a points: [1687, 1758, 1796]
+b Length: 84
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 38
+Invalid Cycle Length.  Discarding...[1758, 1796, 1842]
+a points: [1796, 1842, 1900]
+b points: [1842, 1900, 1963]
+a points: [1900, 1963, 2015]
+b points: [1963, 2015, 2073]
+a points: [2015, 2073, 2125]
+b points: [2073, 2125, 2195]
+a points: [2125, 2195, 2236]
+b points: [2195, 2236, 2294]
+a points: [2236, 2294, 2346]
+b points: [2294, 2346, 2418]
+a points: [2346, 2418, 2456]
+b points: [2418, 2456, 2513]
+a points: [2456, 2513, 2560]
+b points: [2513, 2560, 2623]
+a points: [2560, 2623, 2674]
+b points: [2623, 2674, 2733]
+a points: [2674, 2733, 2789]
+b points: [2733, 2789, 2843]
+a points: [2789, 2843, 2895]
+b points: [2843, 2895, 2952]
+a points: [2895, 2952, 3004]
+b points: [2952, 3004, 3063]
+a points: [3004, 3063, 3115]
+b points: [3063, 3115, 3185]
+a points: [3115, 3185, 3225]
+b points: [3185, 3225, 3284]
+a points: [3225, 3284, 3335]
+b points: [3284, 3335, 3394]
+a points: [3335, 3394, 3447]
+b points: [3394, 3447, 3505]
+a points: [3447, 3505, 3559]
+b points: [3505, 3559, 3615]
+a points: [3559, 3615, 3662]
+b points: [3615, 3662, 3738]
+a points: [3662, 3738, 3780]
+b points: [3738, 3780, 3841]
+a points: [3780, 3841, 3895]
+b points: [3841, 3895, 3954]
+a points: [3895, 3954, 4008]
+b Length: 135
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 54
+Invalid Cycle Length.  Discarding...[3954, 4008, 4089]
+a points: [4008, 4089, 4123]
+'a' Cycles Detected: 35
+'b' Cycles Detected: 32
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 35
+
+new Length: 29
+
+Normalizing Height..
+Max: 8.78536536102
+Min: -14.0172528431
+Span: 22.8026182041
+
+Normalizing Height..
+Max: 16.3522581967
+Min: -1.05173097958
+Span: 17.4039891763
+
+Normalizing Height..
+Max: 6.81608477269
+Min: -18.9675856377
+Span: 25.7836704104
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 32
+
+new Length: 26
+
+Normalizing Height..
+Max: 8.27234127911
+Min: -8.518615524
+Span: 16.7909568031
+
+Normalizing Height..
+Max: 18.9627494937
+Min: 1.90779336673
+Span: 17.0549561269
+
+Normalizing Height..
+Max: 7.69287291864
+Min: -12.963310426
+Span: 20.6561833446
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -59.2719131573
+Temp #2: 44.5830579419
+Score #1: 5
+Score #2: 14
+NO MATCH FOUND: 44/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4084
+Average y_acceleration: 10.2476696838
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4084
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2476696838
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [162, 243, 289]
+b points: [243, 289, 341]
+a points: [289, 341, 414]
+b points: [341, 414, 451]
+a points: [414, 451, 521]
+b points: [451, 521, 559]
+a Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 38
+Invalid Cycle Length.  Discarding...[521, 559, 611]
+b points: [559, 611, 669]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 58
+Invalid Cycle Length.  Discarding...[611, 669, 740]
+b points: [669, 740, 777]
+a Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 37
+Invalid Cycle Length.  Discarding...[740, 777, 829]
+b points: [777, 829, 885]
+a points: [829, 885, 938]
+b points: [885, 938, 995]
+a points: [938, 995, 1046]
+b points: [995, 1046, 1115]
+a points: [1046, 1115, 1154]
+b points: [1115, 1154, 1225]
+a points: [1154, 1225, 1263]
+b points: [1225, 1263, 1319]
+a points: [1263, 1319, 1372]
+b points: [1319, 1372, 1428]
+a points: [1372, 1428, 1480]
+b points: [1428, 1480, 1536]
+a points: [1480, 1536, 1588]
+b points: [1536, 1588, 1658]
+a Length: 128
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 70
+Invalid Cycle Length.  Discarding...[1588, 1658, 1716]
+b points: [1658, 1716, 1754]
+a points: [1716, 1754, 1827]
+b points: [1754, 1827, 1864]
+a Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 37
+Invalid Cycle Length.  Discarding...[1827, 1864, 1916]
+b points: [1864, 1916, 1975]
+a points: [1916, 1975, 2029]
+b points: [1975, 2029, 2086]
+a Length: 128
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 57
+Invalid Cycle Length.  Discarding...[2029, 2086, 2157]
+b points: [2086, 2157, 2192]
+a points: [2157, 2192, 2266]
+b points: [2192, 2266, 2318]
+a Length: 91
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 52
+Invalid Cycle Length.  Discarding...[2266, 2318, 2357]
+b points: [2318, 2357, 2414]
+a points: [2357, 2414, 2465]
+b points: [2414, 2465, 2537]
+a Length: 132
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 72
+Invalid Cycle Length.  Discarding...[2465, 2537, 2597]
+b points: [2537, 2597, 2635]
+a points: [2597, 2635, 2708]
+b points: [2635, 2708, 2744]
+a Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 36
+Invalid Cycle Length.  Discarding...[2708, 2744, 2797]
+b points: [2744, 2797, 2856]
+a points: [2797, 2856, 2907]
+b points: [2856, 2907, 2977]
+a points: [2907, 2977, 3017]
+b points: [2977, 3017, 3087]
+a points: [3017, 3087, 3128]
+b points: [3087, 3128, 3198]
+a points: [3128, 3198, 3238]
+b points: [3198, 3238, 3298]
+a points: [3238, 3298, 3350]
+b points: [3298, 3350, 3408]
+a points: [3350, 3408, 3460]
+b points: [3408, 3460, 3519]
+a points: [3460, 3519, 3573]
+b points: [3519, 3573, 3631]
+a points: [3573, 3631, 3680]
+b points: [3631, 3680, 3744]
+a points: [3680, 3744, 3801]
+b points: [3744, 3801, 3857]
+a points: [3801, 3857, 3914]
+'a' Cycles Detected: 25
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 2
+
+Length: 25
+
+new Length: 21
+
+Normalizing Height..
+Max: 8.91303556158
+Min: -12.2343032779
+Span: 21.1473388394
+
+Normalizing Height..
+Max: 16.736122397
+Min: -0.695070300193
+Span: 17.4311926972
+
+Normalizing Height..
+Max: 6.88806560677
+Min: -17.0750852416
+Span: 23.9631508484
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 7.49454780247
+Min: -9.41754911073
+Span: 16.9120969132
+
+Normalizing Height..
+Max: 19.1826269276
+Min: 2.74851303098
+Span: 16.4341138966
+
+Normalizing Height..
+Max: 7.58053760166
+Min: -12.5649554683
+Span: 20.14549307
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -47.2620908228
+Temp #2: 44.5321854304
+Score #1: 5
+Score #2: 14
+NO MATCH FOUND: 44/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4146
+Average y_acceleration: 9.87574307879
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4146
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 110
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 10.8757430788
+Local Max Points: 69
+Writing current data to:   local_max.csv
+
+a points: [285, 330, 397]
+b points: [330, 397, 438]
+a points: [397, 438, 505]
+b points: [438, 505, 546]
+a points: [505, 546, 614]
+b points: [546, 614, 652]
+a points: [614, 652, 719]
+b points: [652, 719, 779]
+a points: [719, 779, 829]
+b points: [779, 829, 873]
+a points: [829, 873, 942]
+b points: [873, 942, 982]
+a points: [942, 982, 1050]
+b points: [982, 1050, 1091]
+a points: [1050, 1091, 1159]
+b points: [1091, 1159, 1200]
+a points: [1159, 1200, 1272]
+b points: [1200, 1272, 1308]
+a points: [1272, 1308, 1380]
+b points: [1308, 1380, 1419]
+a points: [1380, 1419, 1488]
+b points: [1419, 1488, 1529]
+a points: [1488, 1529, 1601]
+b points: [1529, 1601, 1642]
+a points: [1601, 1642, 1708]
+b points: [1642, 1708, 1751]
+a points: [1708, 1751, 1819]
+b points: [1751, 1819, 1862]
+a points: [1819, 1862, 1929]
+b points: [1862, 1929, 1971]
+a points: [1929, 1971, 2041]
+b points: [1971, 2041, 2080]
+a points: [2041, 2080, 2150]
+b Length: 131
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[2080, 2150, 2211]
+a points: [2150, 2211, 2262]
+b points: [2211, 2262, 2304]
+a points: [2262, 2304, 2374]
+b points: [2304, 2374, 2416]
+a points: [2374, 2416, 2486]
+b Length: 131
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[2416, 2486, 2547]
+a points: [2486, 2547, 2600]
+b Length: 92
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 53
+Invalid Cycle Length.  Discarding...[2547, 2600, 2639]
+a points: [2600, 2639, 2713]
+b points: [2639, 2713, 2754]
+a points: [2713, 2754, 2824]
+b points: [2754, 2824, 2868]
+a points: [2824, 2868, 2937]
+b points: [2868, 2937, 2981]
+a points: [2937, 2981, 3052]
+b points: [2981, 3052, 3093]
+a points: [3052, 3093, 3164]
+b points: [3093, 3164, 3206]
+a points: [3164, 3206, 3281]
+b points: [3206, 3281, 3322]
+a points: [3281, 3322, 3393]
+b Length: 134
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[3322, 3393, 3456]
+a points: [3393, 3456, 3508]
+b points: [3456, 3508, 3570]
+a points: [3508, 3570, 3622]
+b points: [3570, 3622, 3665]
+a points: [3622, 3665, 3736]
+b Length: 186
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[3665, 3736, 3851]
+a Length: 156
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3736, 3851, 3892]
+new points: [3736, 3793, 3851]
+a points: [3851, 3892, 3968]
+b points: [3892, 3968, 3999]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 27
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 17.4158648978
+Min: -7.24448802324
+Span: 24.6603529211
+
+Normalizing Height..
+Max: 19.0694761455
+Min: 2.26226752309
+Span: 16.8072086224
+
+Normalizing Height..
+Max: 17.92735824
+Min: -6.00408493128
+Span: 23.9314431713
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 27
+
+new Length: 23
+
+Normalizing Height..
+Max: 16.2021989395
+Min: -6.09050189563
+Span: 22.2927008352
+
+Normalizing Height..
+Max: 17.4481176389
+Min: 2.49496781584
+Span: 14.953149823
+
+Normalizing Height..
+Max: 15.751371757
+Min: -7.91394821037
+Span: 23.6653199674
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 44.6218617107
+Temp #2: -43.4848108286
+Score #1: 20
+Score #2: 9
+NO MATCH FOUND: 44/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4008
+Average y_acceleration: 9.89666171274
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4008
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 108
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 10.8966617127
+Local Max Points: 61
+Writing current data to:   local_max.csv
+
+a Length: 147
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [254, 360, 401]
+new points: [254, 307, 360]
+a points: [360, 401, 468]
+b points: [401, 468, 508]
+a points: [468, 508, 575]
+b points: [508, 575, 615]
+a points: [575, 615, 681]
+b points: [615, 681, 721]
+a points: [681, 721, 787]
+b Length: 174
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 66
+Invalid Cycle Length.  Discarding...[721, 787, 895]
+a Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [787, 895, 936]
+new points: [787, 841, 895]
+a points: [895, 936, 1003]
+b Length: 174
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 67
+Invalid Cycle Length.  Discarding...[936, 1003, 1110]
+a Length: 148
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1003, 1110, 1151]
+new points: [1003, 1056, 1110]
+a points: [1110, 1151, 1219]
+b points: [1151, 1219, 1259]
+a points: [1219, 1259, 1327]
+b points: [1259, 1327, 1368]
+a points: [1327, 1368, 1435]
+b points: [1368, 1435, 1475]
+a points: [1435, 1475, 1540]
+b points: [1475, 1540, 1581]
+a points: [1540, 1581, 1648]
+b points: [1581, 1648, 1688]
+a points: [1648, 1688, 1756]
+b points: [1688, 1756, 1796]
+a points: [1756, 1796, 1865]
+b Length: 177
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[1796, 1865, 1973]
+a Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1865, 1973, 2014]
+new points: [1865, 1919, 1973]
+a points: [1973, 2014, 2082]
+b Length: 177
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 68
+Invalid Cycle Length.  Discarding...[2014, 2082, 2191]
+a Length: 148
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2082, 2191, 2230]
+new points: [2082, 2136, 2191]
+a points: [2191, 2230, 2298]
+b points: [2230, 2298, 2336]
+a points: [2298, 2336, 2407]
+b points: [2336, 2407, 2444]
+a points: [2407, 2444, 2513]
+b points: [2444, 2513, 2552]
+a points: [2513, 2552, 2620]
+b points: [2552, 2620, 2659]
+a points: [2620, 2659, 2728]
+b points: [2659, 2728, 2768]
+a points: [2728, 2768, 2835]
+b points: [2768, 2835, 2875]
+a points: [2835, 2875, 2945]
+b Length: 179
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 70
+Invalid Cycle Length.  Discarding...[2875, 2945, 3054]
+a Length: 220
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2945, 3054, 3165]
+new points: [2945, 2999, 3054]
+a Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3054, 3165, 3203]
+new points: [3054, 3109, 3165]
+a points: [3165, 3203, 3274]
+b Length: 162
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[3203, 3274, 3365]
+a Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3274, 3365, 3423]
+new points: [3274, 3319, 3365]
+a Length: 127
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 58
+Invalid Cycle Length.  Discarding...[3365, 3423, 3492]
+b Length: 180
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 69
+Invalid Cycle Length.  Discarding...[3423, 3492, 3603]
+a Length: 150
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3492, 3603, 3642]
+new points: [3492, 3547, 3603]
+a points: [3603, 3642, 3713]
+b Length: 186
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[3642, 3713, 3828]
+a Length: 146
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3713, 3828, 3859]
+new points: [3713, 3770, 3828]
+a points: [3828, 3859, 3939]
+'a' Cycles Detected: 33
+'b' Cycles Detected: 15
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 7.6031556768
+Min: -15.2417763487
+Span: 22.8449320255
+
+Normalizing Height..
+Max: 19.5423384344
+Min: 3.85109212138
+Span: 15.691246313
+
+Normalizing Height..
+Max: 7.82430648414
+Min: -7.5798398697
+Span: 15.4041463538
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 1
+
+Length: 15
+
+new Length: 13
+
+Normalizing Height..
+Max: 8.58685223218
+Min: -23.4989361858
+Span: 32.0857884179
+
+Normalizing Height..
+Max: 18.9842000828
+Min: 3.50475734143
+Span: 15.4794427413
+
+Normalizing Height..
+Max: 13.1374534318
+Min: -14.6338293502
+Span: 27.771282782
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 41.6668936696
+Temp #2: -38.9590308965
+Score #1: 10
+Score #2: 8
+NO MATCH FOUND: 41/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4181
+Average y_acceleration: 10.2334330435
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4181
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 109
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 11.2334330435
+Local Max Points: 72
+Writing current data to:   local_max.csv
+
+a points: [247, 303, 358]
+b points: [303, 358, 410]
+a points: [358, 410, 467]
+b points: [410, 467, 519]
+a points: [467, 519, 592]
+b points: [519, 592, 631]
+a points: [592, 631, 688]
+b points: [631, 688, 740]
+a points: [688, 740, 798]
+b points: [740, 798, 849]
+a points: [798, 849, 908]
+b Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 59
+Invalid Cycle Length.  Discarding...[849, 908, 978]
+a points: [908, 978, 1017]
+b points: [978, 1017, 1073]
+a points: [1017, 1073, 1127]
+b points: [1073, 1127, 1182]
+a points: [1127, 1182, 1237]
+b points: [1182, 1237, 1294]
+a points: [1237, 1294, 1349]
+b points: [1294, 1349, 1404]
+a points: [1349, 1404, 1462]
+b points: [1404, 1462, 1514]
+a points: [1462, 1514, 1586]
+b points: [1514, 1586, 1625]
+a points: [1586, 1625, 1681]
+b points: [1625, 1681, 1737]
+a points: [1681, 1737, 1792]
+b points: [1737, 1792, 1844]
+a points: [1792, 1844, 1916]
+b points: [1844, 1916, 1954]
+a points: [1916, 1954, 2013]
+b points: [1954, 2013, 2064]
+a points: [2013, 2064, 2122]
+b points: [2064, 2122, 2174]
+a points: [2122, 2174, 2231]
+b points: [2174, 2231, 2283]
+a points: [2231, 2283, 2342]
+b points: [2283, 2342, 2394]
+a points: [2342, 2394, 2450]
+b points: [2394, 2450, 2501]
+a points: [2450, 2501, 2559]
+b points: [2501, 2559, 2610]
+a points: [2559, 2610, 2681]
+b Length: 181
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 71
+Invalid Cycle Length.  Discarding...[2610, 2681, 2791]
+a Length: 166
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [2681, 2791, 2847]
+new points: [2681, 2736, 2791]
+a points: [2791, 2847, 2885]
+b Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 38
+Invalid Cycle Length.  Discarding...[2847, 2885, 2937]
+a points: [2885, 2937, 2993]
+b points: [2937, 2993, 3046]
+a points: [2993, 3046, 3102]
+b points: [3046, 3102, 3157]
+a points: [3102, 3157, 3210]
+b points: [3157, 3210, 3262]
+a points: [3210, 3262, 3320]
+b Length: 130
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 58
+Invalid Cycle Length.  Discarding...[3262, 3320, 3392]
+a points: [3320, 3392, 3432]
+b points: [3392, 3432, 3485]
+a points: [3432, 3485, 3544]
+b points: [3485, 3544, 3597]
+a points: [3544, 3597, 3670]
+b points: [3597, 3670, 3707]
+a points: [3670, 3707, 3765]
+b points: [3707, 3765, 3819]
+a points: [3765, 3819, 3879]
+b points: [3819, 3879, 3932]
+a points: [3879, 3932, 3993]
+b points: [3932, 3993, 4049]
+a points: [3993, 4049, 4093]
+'a' Cycles Detected: 35
+'b' Cycles Detected: 29
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 3
+
+Length: 35
+
+new Length: 29
+
+Normalizing Height..
+Max: 9.65669204164
+Min: -12.7847366105
+Span: 22.4414286521
+
+Normalizing Height..
+Max: 19.3312931999
+Min: 0.576210702902
+Span: 18.755082497
+
+Normalizing Height..
+Max: 8.05561182776
+Min: -17.797362792
+Span: 25.8529746198
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 29
+
+new Length: 25
+
+Normalizing Height..
+Max: 9.40797045622
+Min: -16.1516444916
+Span: 25.5596149478
+
+Normalizing Height..
+Max: 17.1435859508
+Min: -1.22979371582
+Span: 18.3733796666
+
+Normalizing Height..
+Max: 7.70482216321
+Min: -21.5826162483
+Span: 29.2874384116
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: 39.8124210099
+Temp #2: -51.1405792427
+Score #1: 19
+Score #2: 5
+NO MATCH FOUND: 39/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 4162
+Average y_acceleration: 9.93094416373
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+4162
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 111
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 10.9309441637
+Local Max Points: 64
+Writing current data to:   local_max.csv
+
+a points: [181, 261, 305]
+b points: [261, 305, 372]
+a Length: 205
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 67
+Invalid Cycle Length.  Discarding...[305, 372, 510]
+b Length: 219
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 138
+Invalid Cycle Length.  Discarding...[372, 510, 591]
+a points: [510, 591, 631]
+b points: [591, 631, 701]
+a points: [631, 701, 740]
+b points: [701, 740, 808]
+a points: [740, 808, 850]
+b points: [808, 850, 918]
+a points: [850, 918, 959]
+b points: [918, 959, 1031]
+a Length: 179
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 72
+Invalid Cycle Length.  Discarding...[959, 1031, 1138]
+b Length: 146
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1031, 1138, 1177]
+new points: [1031, 1084, 1138]
+b points: [1138, 1177, 1248]
+a points: [1177, 1248, 1287]
+b points: [1248, 1287, 1358]
+a Length: 182
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 71
+Invalid Cycle Length.  Discarding...[1287, 1358, 1469]
+b Length: 220
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1358, 1469, 1578]
+new points: [1358, 1413, 1469]
+b Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1469, 1578, 1618]
+new points: [1469, 1523, 1578]
+b points: [1578, 1618, 1689]
+a Length: 180
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 71
+Invalid Cycle Length.  Discarding...[1618, 1689, 1798]
+b Length: 148
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [1689, 1798, 1837]
+new points: [1689, 1743, 1798]
+b points: [1798, 1837, 1908]
+a points: [1837, 1908, 1952]
+b points: [1908, 1952, 2017]
+a points: [1952, 2017, 2057]
+b points: [2017, 2057, 2126]
+a points: [2057, 2126, 2166]
+b points: [2126, 2166, 2238]
+a points: [2166, 2238, 2275]
+b points: [2238, 2275, 2348]
+a points: [2275, 2348, 2385]
+b points: [2348, 2385, 2456]
+a points: [2385, 2456, 2496]
+b points: [2456, 2496, 2566]
+a points: [2496, 2566, 2606]
+b points: [2566, 2606, 2679]
+a points: [2606, 2679, 2720]
+b points: [2679, 2720, 2789]
+a points: [2720, 2789, 2828]
+b points: [2789, 2828, 2897]
+a points: [2828, 2897, 2938]
+b points: [2897, 2938, 3009]
+a Length: 179
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 71
+Invalid Cycle Length.  Discarding...[2938, 3009, 3117]
+b Length: 149
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3009, 3117, 3158]
+new points: [3009, 3063, 3117]
+b points: [3117, 3158, 3227]
+a Length: 179
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 69
+Invalid Cycle Length.  Discarding...[3158, 3227, 3337]
+b Length: 220
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3227, 3337, 3447]
+new points: [3227, 3282, 3337]
+b Length: 151
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3337, 3447, 3488]
+new points: [3337, 3392, 3447]
+b points: [3447, 3488, 3559]
+a Length: 181
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 71
+Invalid Cycle Length.  Discarding...[3488, 3559, 3669]
+b Length: 152
+Invalid Cycle Length. Checking for missing local max point..
+Missing point detected!
+old points: [3559, 3669, 3711]
+new points: [3559, 3614, 3669]
+b points: [3669, 3711, 3781]
+a points: [3711, 3781, 3821]
+b points: [3781, 3821, 3896]
+a points: [3821, 3896, 3935]
+b points: [3896, 3935, 4013]
+a points: [3935, 4013, 4058]
+b Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+b Length: 45
+Invalid Cycle Length.  Discarding...[4013, 4058, 4102]
+'a' Cycles Detected: 27
+'b' Cycles Detected: 24
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 2
+
+Length: 27
+
+new Length: 23
+
+Normalizing Height..
+Max: 6.64972076855
+Min: -13.1436443161
+Span: 19.7933650847
+
+Normalizing Height..
+Max: 18.0904504931
+Min: 5.79835996849
+Span: 12.2920905246
+
+Normalizing Height..
+Max: 7.42493514693
+Min: -11.4829103935
+Span: 18.9078455404
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 2
+
+Length: 24
+
+new Length: 20
+
+Normalizing Height..
+Max: 7.32366869902
+Min: -23.6296335715
+Span: 30.9533022705
+
+Normalizing Height..
+Max: 19.3565160562
+Min: 3.50787571007
+Span: 15.8486403461
+
+Normalizing Height..
+Max: 8.3215480912
+Min: -16.0434316593
+Span: 24.3649797505
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -18.1865502827
+Temp #2: 50.7624453879
+Score #1: 13
+Score #2: 20
+NO MATCH FOUND: 50/100
+
+==== READING DATA FILE ====
+Number of Sample Points: 3999
+Average y_acceleration: 9.81223070649
+==== COMPLETE ====
+
+==== BEGIN DATA TRANSFORMATION ====
+Writing current data to:   modified.csv
+
+==== COMPLETE ====
+
+3999
+DETECTING LOCAL MAX POINTS
+Threshold: 0.5
+Local Max Points: 3
+Writing current data to:   distance.csv
+
+Optimal Distance: 109
+
+== TEMPLATE EXISTS, MATCHING...
+DETECTING LOCAL MAX POINTS
+Threshold: 10.8122307065
+Local Max Points: 71
+Writing current data to:   local_max.csv
+
+a points: [150, 215, 256]
+b points: [215, 256, 325]
+a points: [256, 325, 365]
+b points: [325, 365, 434]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 69
+Invalid Cycle Length.  Discarding...[365, 434, 494]
+b points: [434, 494, 542]
+a points: [494, 542, 602]
+b points: [542, 602, 650]
+a points: [602, 650, 694]
+b points: [650, 694, 757]
+a points: [694, 757, 798]
+b points: [757, 798, 867]
+a points: [798, 867, 906]
+b points: [867, 906, 973]
+a Length: 127
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 67
+Invalid Cycle Length.  Discarding...[906, 973, 1033]
+b points: [973, 1033, 1082]
+a Length: 89
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 49
+Invalid Cycle Length.  Discarding...[1033, 1082, 1122]
+b points: [1082, 1122, 1193]
+a points: [1122, 1193, 1230]
+b points: [1193, 1230, 1298]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 68
+Invalid Cycle Length.  Discarding...[1230, 1298, 1359]
+b points: [1298, 1359, 1407]
+a points: [1359, 1407, 1467]
+b points: [1407, 1467, 1516]
+a Length: 90
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 49
+Invalid Cycle Length.  Discarding...[1467, 1516, 1557]
+b points: [1516, 1557, 1626]
+a points: [1557, 1626, 1667]
+b points: [1626, 1667, 1735]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 68
+Invalid Cycle Length.  Discarding...[1667, 1735, 1796]
+b points: [1735, 1796, 1844]
+a Length: 88
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 48
+Invalid Cycle Length.  Discarding...[1796, 1844, 1884]
+b points: [1844, 1884, 1953]
+a points: [1884, 1953, 1993]
+b points: [1953, 1993, 2062]
+a Length: 130
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 69
+Invalid Cycle Length.  Discarding...[1993, 2062, 2123]
+b points: [2062, 2123, 2172]
+a points: [2123, 2172, 2235]
+b points: [2172, 2235, 2284]
+a points: [2235, 2284, 2343]
+b points: [2284, 2343, 2392]
+a points: [2343, 2392, 2451]
+b points: [2392, 2451, 2501]
+a points: [2451, 2501, 2560]
+b points: [2501, 2560, 2610]
+a points: [2560, 2610, 2670]
+b points: [2610, 2670, 2719]
+a points: [2670, 2719, 2780]
+b points: [2719, 2780, 2829]
+a points: [2780, 2829, 2874]
+b points: [2829, 2874, 2939]
+a points: [2874, 2939, 3000]
+b points: [2939, 3000, 3049]
+a points: [3000, 3049, 3111]
+b points: [3049, 3111, 3164]
+a points: [3111, 3164, 3204]
+b points: [3164, 3204, 3275]
+a points: [3204, 3275, 3314]
+b points: [3275, 3314, 3373]
+a Length: 129
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 59
+Invalid Cycle Length.  Discarding...[3314, 3373, 3443]
+b points: [3373, 3443, 3495]
+a points: [3443, 3495, 3556]
+b points: [3495, 3556, 3608]
+a points: [3556, 3608, 3650]
+b points: [3608, 3650, 3720]
+a points: [3650, 3720, 3752]
+b points: [3720, 3752, 3825]
+a Length: 133
+Invalid Cycle Length. Checking for missing local max point..
+a Length: 73
+Invalid Cycle Length.  Discarding...[3752, 3825, 3885]
+'a' Cycles Detected: 24
+'b' Cycles Detected: 33
+
+Normalizing cycles...
+Writing current data to:   normalize_a.csv
+
+Buffer: 2
+
+Length: 24
+
+new Length: 20
+
+Normalizing Height..
+Max: 6.23307589046
+Min: -3.68359978082
+Span: 9.91667567128
+
+Normalizing Height..
+Max: 17.775852088
+Min: 4.29790918894
+Span: 13.477942899
+
+Normalizing Height..
+Max: 6.19162973725
+Min: -4.32561059708
+Span: 10.5172403343
+
+==== COMPLETE ====
+
+Normalizing cycles...
+Writing current data to:   normalize_b.csv
+
+Buffer: 3
+
+Length: 33
+
+new Length: 27
+
+Normalizing Height..
+Max: 18.5526472933
+Min: -7.93822059293
+Span: 26.4908678862
+
+Normalizing Height..
+Max: 19.0757939063
+Min: 2.40914582571
+Span: 16.6666480806
+
+Normalizing Height..
+Max: 20.9137945137
+Min: -6.44521079872
+Span: 27.3590053124
+
+==== COMPLETE ====
+
+Determining Match Score..
+Temp #1: -15.6539135886
+Temp #2: 43.4168805495
+Score #1: 12
+Score #2: 21
+NO MATCH FOUND: 43/100
+Probe: python method.py Distribution/Pocket/pocket0.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket1.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket2.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket3.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket4.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket5.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket6.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket7.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket8.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket9.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket10.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket11.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket12.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket13.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket14.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket15.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket16.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket17.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket18.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket19.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket20.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket21.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket22.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket23.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket24.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket25.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket26.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket27.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket28.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket29.csv mom.csv
+Probe: python method.py Distribution/Pocket/pocket30.csv mom.csv
